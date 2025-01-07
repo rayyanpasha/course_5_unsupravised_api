@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cluster Prediction</title>
+    <script>
+        async function predictCluster() {
+            const number_of_kills = document.getElementById('number_of_kills').value;
+            const number_of_wounded = document.getElementById('number_of_wounded').value;
+            const region = document.getElementById('region').value;
+            const attack_type = document.getElementById('attack_type').value;
+
+            const response = await fetch('/predict', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ number_of_kills, number_of_wounded, region, attack_type })
+            });
+
+            const result = await response.json();
+            document.getElementById('result').innerText = 
+                `Cluster: ${result.cluster}, Details: ${JSON.stringify(result.details)}`;
+        }
+    </script>
+</head>
+<body>
+    <h1>Cluster Prediction</h1>
+    <form onsubmit="event.preventDefault(); predictCluster();">
+        <label for="number_of_kills">Number of Kills:</label>
+        <input type="number" id="number_of_kills" name="number_of_kills" required><br><br>
+        <label for="number_of_wounded">Number of Wounded:</label>
+        <input type="number" id="number_of_wounded" name="number_of_wounded" required><br><br>
+        <label for="region">Region:</label>
+        <input type="text" id="region" name="region" required><br><br>
+        <label for="attack_type">Attack Type:</label>
+        <input type="text" id="attack_type" name="attack_type" required><br><br>
+        <button type="submit">Predict Cluster</button>
+    </form>
+    <h2>Result:</h2>
+    <div id="result"></div>
+</body>
+</html>

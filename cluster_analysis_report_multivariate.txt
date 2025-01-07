@@ -1,0 +1,49 @@
+
+Cluster 0 Summary:
+Number of Points: 11118
+Average Kills: 0.43
+Average Wounded: 1.83
+Most Common Region: Western Europe
+Most Common Attack Type: Bombing/Explosion
+
+Cluster 1 Summary:
+Number of Points: 6684
+Average Kills: 1.24
+Average Wounded: 0.83
+Most Common Region: South Asia
+Most Common Attack Type: Assassination
+
+Cluster 2 Summary:
+Number of Points: 15613
+Average Kills: 2.40
+Average Wounded: 1.61
+Most Common Region: South Asia
+Most Common Attack Type: Armed Assault
+
+Cluster 3 Summary:
+Number of Points: 17073
+Average Kills: 1.96
+Average Wounded: 5.12
+Most Common Region: Middle East & North Africa
+Most Common Attack Type: Bombing/Explosion
+
+Cluster 4 Summary:
+Number of Points: 14907
+Average Kills: 1.46
+Average Wounded: 3.30
+Most Common Region: South Asia
+Most Common Attack Type: Bombing/Explosion
+
+Cluster 5 Summary:
+Number of Points: 9917
+Average Kills: 2.04
+Average Wounded: 2.11
+Most Common Region: Sub-Saharan Africa
+Most Common Attack Type: Armed Assault
+
+Cluster 6 Summary:
+Number of Points: 482
+Average Kills: 78.83
+Average Wounded: 133.50
+Most Common Region: Middle East & North Africa
+Most Common Attack Type: Bombing/Explosion

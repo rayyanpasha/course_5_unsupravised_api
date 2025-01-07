@@ -1,0 +1,598 @@
+year,month,day,country,region,state,city,attack_type,weapon_type,target_type,number_of_kills,number_of_wounded,property_damaged,lof_score,is_outlier
+1970,2,16,United States,North America,California,San Francisco,Bombing/Explosion,Explosives,Police,1.0,0.0,1,268637832.97737485,True
+1970,3,5,United States,North America,Puerto Rico,San Juan,Assassination,Firearms,Military,2.0,0.0,0,431397146.5577391,True
+1970,3,9,United States,North America,Maryland,Bel Air,Bombing/Explosion,Explosives,Unknown,2.0,0.0,1,281673192.0353192,True
+1970,3,14,United States,North America,California,Long Beach,Hijacking,Firearms,Military,0.0,0.0,0,3584084031.1337686,True
+1970,4,11,United States,North America,Texas,Freeport,Facility/Infrastructure Attack,Incendiary,Business,0.0,5.0,1,529219816.28410643,True
+1970,4,20,United States,North America,Kansas,Lawrence,Facility/Infrastructure Attack,Incendiary,Educational Institution,0.0,3.0,1,337799882.86175364,True
+1970,5,9,United States,North America,New York,New York City,Facility/Infrastructure Attack,Incendiary,Educational Institution,0.0,12.0,1,1041742147.8156286,True
+1970,5,15,United States,North America,Washington,Seattle,Bombing/Explosion,Explosives,Business,1.0,0.0,0,268637832.97737485,True
+1970,7,2,United States,North America,California,Compton,Bombing/Explosion,Explosives,Police,1.0,0.0,1,268637832.97737485,True
+1970,7,17,United States,North America,Illinois,Chicago,Armed Assault,Firearms,Police,2.0,0.0,1,298931268.35557884,True
+1970,8,7,United States,North America,California,San Rafael,Hostage Taking (Kidnapping),Firearms,Government (General),4.0,2.0,1,830980412.3656508,True
+1970,9,2,Greece,Western Europe,Attica,Athens,Bombing/Explosion,Explosives,Government (Diplomatic),2.0,0.0,1,342120957.7235142,True
+1970,9,6,Netherlands,Western Europe,North Holland,Amsterdam,Hijacking,Firearms,Airports & Aircraft,1.0,0.0,0,851663223.3066201,True
+1970,9,27,United States,North America,New York,New York City,Hijacking,Explosives,Airports & Aircraft,0.0,0.0,0,3584084031.1337686,True
+1970,10,10,Canada,North America,Quebec,Saint-Lambert,Hostage Taking (Kidnapping),Firearms,Government (General),1.0,0.0,0,637406746.3406882,True
+1977,7,5,Italy,Western Europe,Apulia,Foggia,Hostage Taking (Kidnapping),Unknown,Business,1.0,0.0,0,638747417.729965,True
+1980,12,17,Australia,Australasia & Oceania,New South Wales,Sydney,Assassination,Firearms,Military,2.0,0.0,0,2651347150.2547464,True
+1980,12,28,El Salvador,Central America & Caribbean,Chalatenango,Nombre de Jesus,Armed Assault,Firearms,Military,5.0,4.0,1,283865047.08297956,True
+1981,1,3,El Salvador,Central America & Caribbean,San Salvador,San Salvador,Assassination,Firearms,Private Citizens & Property,3.0,0.0,0,223413702.96560708,True
+1981,1,30,Spain,Western Europe,Basque Country,Urizar de Lemoniz,Hostage Taking (Kidnapping),Unknown,Business,1.0,0.0,0,638747417.729965,True
+1981,2,2,El Salvador,Central America & Caribbean,San Salvador,San Salvador,Facility/Infrastructure Attack,Unknown,Business,4.0,1.0,1,2052243403.3416035,True
+1981,2,10,El Salvador,Central America & Caribbean,San Salvador,San Salvador,Facility/Infrastructure Attack,Incendiary,Transportation,0.0,2.0,1,379257140.5789866,True
+1981,2,10,Philippines,Southeast Asia,Unknown,Picong,Facility/Infrastructure Attack,Incendiary,Government (General),4.0,0.0,1,1019890713.955974,True
+1981,2,14,Guatemala,Central America & Caribbean,Guatemala,Guatemala City,Assassination,Firearms,Government (General),1.0,5.0,0,509835679.3753201,True
+1981,2,24,Italy,Western Europe,Lazio,Rome,Assassination,Firearms,Private Citizens & Property,0.0,4.0,0,386934410.9850825,True
+1981,3,2,Pakistan,South Asia,Sindh,Karachi,Hijacking,Firearms,Airports & Aircraft,1.0,0.0,0,643156508.9216053,True
+1981,3,18,El Salvador,Central America & Caribbean,San Salvador,San Salvador,Assassination,Firearms,Police,3.0,0.0,0,223413702.96560708,True
+1981,3,23,United States,North America,Connecticut,Danbury,Hostage Taking (Barricade Incident),Firearms,Business,0.0,1.0,1,194490841.78775868,True
+1981,3,26,United States,North America,Alabama,Mobile,Hostage Taking (Kidnapping),Melee,Private Citizens & Property,1.0,0.0,0,637406746.3406882,True
+1981,3,27,Honduras,Central America & Caribbean,Francisco Morazan,Tegucigalpa,Hijacking,Firearms,Airports & Aircraft,0.0,0.0,0,1086620574.2972827,True
+1981,4,8,Spain,Western Europe,Basque Country,Bilbao,Unknown,Unknown,Police,1.0,0.0,0,809080062.1912892,True
+1981,4,23,Colombia,South America,Cauca,Santander de Quilichao,Hostage Taking (Barricade Incident),Firearms,Business,4.0,0.0,1,3027662756.447535,True
+1981,4,27,Italy,Western Europe,Campania,Naples,Hostage Taking (Kidnapping),Unknown,Government (General),2.0,1.0,0,730617718.1674815,True
+1981,5,4,Spain,Western Europe,Madrid,Madrid,Assassination,Firearms,Military,2.0,5.0,0,465213318.9322734,True
+1981,5,7,Guatemala,Central America & Caribbean,Guatemala,Guatemala City,Assassination,Firearms,Educational Institution,3.0,0.0,0,223413702.96560708,True
+1981,5,13,Vatican City,Western Europe,Vatican City,Vatican City,Assassination,Firearms,Religious Figures/Institutions,0.0,3.0,0,257956274.20672148,True
+1981,5,13,El Salvador,Central America & Caribbean,Cabanas,Villa Victoria,Armed Assault,Firearms,Military,5.0,4.0,1,283865047.08297956,True
+1981,5,16,United States,North America,New York,New York City,Bombing/Explosion,Explosives,Airports & Aircraft,1.0,0.0,1,268637832.97737485,True
+1981,5,20,Guatemala,Central America & Caribbean,Quiche,Sacapulas,Assassination,Firearms,Private Citizens & Property,3.0,0.0,0,223413702.96560708,True
+1981,5,20,Italy,Western Europe,Veneto,Venice,Hostage Taking (Kidnapping),Unknown,Business,1.0,0.0,0,638747417.729965,True
+1981,5,24,Turkey,Middle East & North Africa,Istanbul,Istanbul,Hijacking,Firearms,Airports & Aircraft,4.0,6.0,0,474449529.1325408,True
+1981,6,2,United States,North America,New York,New York City,Hostage Taking (Barricade Incident),Firearms,Business,1.0,1.0,1,696857702.382149,True
+1981,6,5,Guatemala,Central America & Caribbean,Alta Verapaz,Yalpemech,Facility/Infrastructure Attack,Sabotage Equipment,Utilities,3.0,0.0,1,1822480203.5044792,True
+1981,6,11,Guatemala,Central America & Caribbean,Suchitepequez,Cuyotenango,Unknown,Unknown,Police,1.0,0.0,1,558190794.5892751,True
+1981,6,25,Panama,Central America & Caribbean,Guna Yala,Nargana district,Facility/Infrastructure Attack,Incendiary,Business,1.0,2.0,1,724084063.5012262,True
+1982,12,8,United States,North America,District of Columbia,Washington,Hostage Taking (Barricade Incident),Explosives,Private Citizens & Property,1.0,0.0,0,767588651.9255635,True
+1982,12,18,El Salvador,Central America & Caribbean,Santa Ana,Santa Ana,Assassination,Firearms,Unknown,3.0,0.0,0,223413702.96560708,True
+1983,1,16,El Salvador,Central America & Caribbean,Usulután,Unknown,Facility/Infrastructure Attack,Firearms,Government (General),0.0,5.0,1,843987886.6737694,True
+1983,1,20,South Yemen,Middle East & North Africa,Unknown,Unknown,Hijacking,Firearms,Airports & Aircraft,0.0,2.0,0,276381722.24671924,True
+1983,1,21,El Salvador,Central America & Caribbean,Cuscatlan,Unknown,Unknown,Unknown,Police,1.0,7.0,1,227581430.3351597,True
+1983,2,8,El Salvador,Central America & Caribbean,Unknown,Unknown,Assassination,Firearms,Business,3.0,0.0,0,223413702.96560708,True
+1983,2,15,United States,North America,Texas,Killeen,Hijacking,Firearms,Airports & Aircraft,0.0,0.0,0,3584084031.1337686,True
+1983,2,28,France,Western Europe,Provence-Alpes-Cote d'Azur,Marseilles,Bombing/Explosion,Explosives,Religious Figures/Institutions,2.0,0.0,1,342120957.7235142,True
+1983,3,23,Nicaragua,Central America & Caribbean,Madriz,Ducuali,Assassination,Firearms,Government (General),3.0,0.0,0,223413702.96560708,True
+1983,4,1,Peru,South America,Arequipa,Arequipa,Hostage Taking (Barricade Incident),Unknown,Journalists & Media,0.0,1.0,1,204727201.82921967,True
+1983,5,4,Spain,Western Europe,Basque Country,bilbao,Assassination,Firearms,Police,3.0,0.0,0,639657210.1048746,True
+1983,5,4,Peru,South America,Ancash,San Martin de Paras district,Armed Assault,Firearms,Police,8.0,0.0,1,257626521.117627,True
+1983,5,20,Nicaragua,Central America & Caribbean,Rivas,Popayapa,Armed Assault,Firearms,Military,5.0,2.0,1,336776246.2860371,True
+1983,6,8,Japan,East Asia,Chiba,Narita,Facility/Infrastructure Attack,Incendiary,Airports & Aircraft,2.0,1.0,1,1669678080.6439548,True
+1983,6,9,El Salvador,Central America & Caribbean,San Vicente,San Antonio Caminos,Unknown,Unknown,Military,4.0,0.0,1,1100758789.2575123,True
+1983,6,12,El Salvador,Central America & Caribbean,San Vicente,San Antonio Caminos,Facility/Infrastructure Attack,Unknown,Business,2.0,0.0,1,1298260684.4139235,True
+1983,6,28,Nicaragua,Central America & Caribbean,Rio San Juan,Unknown,Armed Assault,Firearms,Military,4.0,2.0,1,291736262.2752744,True
+1983,6,29,Colombia,South America,Huila,Unknown,Unknown,Unknown,Private Citizens & Property,2.0,4.0,1,626586463.3383968,True
+1983,7,15,United States,North America,Puerto Rico,Rio Piedras,Hostage Taking (Barricade Incident),Firearms,Business,1.0,0.0,1,767588651.9255635,True
+1983,7,17,Peru,South America,Ayacucho,Ayacucho,Facility/Infrastructure Attack,Firearms,Government (General),1.0,0.0,1,387931336.85429037,True
+1983,8,4,Colombia,South America,Antioquia,Puerto Berrio district,Assassination,Firearms,Government (General),4.0,1.0,0,193467205.76124418,True
+1983,8,9,United States,North America,Michigan,Detroit,Facility/Infrastructure Attack,Incendiary,Religious Figures/Institutions,2.0,0.0,1,1577706120.365871,True
+1986,6,17,Spain,Western Europe,Madrid,Madrid,Unknown,Unknown,Military,3.0,0.0,1,2075220791.6517448,True
+1986,6,17,Spain,Western Europe,Madrid,Madrid,Assassination,Firearms,Military,3.0,0.0,0,639657210.1048746,True
+1986,6,18,Guatemala,Central America & Caribbean,San Marcos,Tajamulco,Armed Assault,Firearms,Military,5.0,3.0,1,291660844.3225008,True
+1986,6,19,Japan,East Asia,Okinawa,Naha,Facility/Infrastructure Attack,Incendiary,Terrorists/Non-State Militia,3.0,0.0,0,2306245464.956347,True
+1986,7,5,El Salvador,Central America & Caribbean,Morazan,El Mozote,Armed Assault,Firearms,Military,3.0,3.0,1,466778019.168121,True
+1986,7,9,West Germany (FRG),Western Europe,Bavaria,Munich,Bombing/Explosion,Explosives,Business,2.0,0.0,1,342120957.7235142,True
+1986,7,14,Colombia,South America,Meta,El Castillo,Armed Assault,Firearms,Military,8.0,0.0,1,257626521.117627,True
+1986,7,21,Peru,South America,Arequipa,Patahuasi,Unknown,Unknown,Private Citizens & Property,2.0,1.0,1,194490841.78775868,True
+1986,7,25,Spain,Western Europe,Basque Country,Aretxabaleta,Bombing/Explosion,Explosives,Police,2.0,0.0,1,342120957.7235142,True
+1986,7,26,United Kingdom,Western Europe,Northern Ireland,Newry,Assassination,Firearms,Police,3.0,0.0,0,639657210.1048746,True
+1986,7,27,Spain,Western Europe,Basque Country,Aretxabaleta,Bombing/Explosion,Explosives,Police,2.0,0.0,1,342120957.7235142,True
+1986,8,14,Colombia,South America,Valle del Cauca,Cali,Armed Assault,Firearms,Police,6.0,2.0,1,396147134.5637264,True
+1986,8,16,South Africa,Sub-Saharan Africa,Transvaal,Unknown,Bombing/Explosion,Explosives,Military,5.0,2.0,1,207286291.85291797,True
+1986,8,17,South Africa,Sub-Saharan Africa,Mpumalanga,Nelspruit,Bombing/Explosion,Explosives,Private Citizens & Property,5.0,2.0,1,207286291.85291797,True
+1986,8,17,Peru,South America,Ayacucho,Huanta,Assassination,Firearms,Military,1.0,3.0,0,239530826.11324015,True
+1986,9,4,Nicaragua,Central America & Caribbean,Matagalpa,Las Minas,Unknown,Unknown,Airports & Aircraft,6.0,0.0,1,239075418.03900903,True
+1986,9,5,Chile,South America,Valparaiso,Valparaiso,Facility/Infrastructure Attack,Incendiary,Transportation,1.0,0.0,0,387931336.85429037,True
+1986,9,14,Nicaragua,Central America & Caribbean,Matagalpa,La Dalia,Armed Assault,Firearms,Business,3.0,3.0,1,466778019.168121,True
+1986,10,15,Spain,Western Europe,Basque Country,Vitoria,Hostage Taking (Kidnapping),Unknown,Business,1.0,0.0,0,638747417.729965,True
+1986,10,24,Spain,Western Europe,Basque Country,Donostia-San Sebastian,Assassination,Explosives,Military,3.0,0.0,0,639657210.1048746,True
+1986,11,7,Nicaragua,Central America & Caribbean,Chontales,Comalpa,Armed Assault,Firearms,Government (General),5.0,2.0,1,336776246.2860371,True
+1986,11,11,Nicaragua,Central America & Caribbean,Chontales,Comalpa,Armed Assault,Firearms,Government (General),4.0,2.0,1,291736262.2752744,True
+1986,11,12,Colombia,South America,Bogota,Bogota district,Assassination,Firearms,Government (General),2.0,1.0,0,193467205.76124415,True
+1987,11,3,Peru,South America,Ayacucho,Lucanas,Armed Assault,Firearms,Private Citizens & Property,8.0,0.0,1,257626521.117627,True
+1987,11,7,Colombia,South America,Antioquia,Castillo,Assassination,Firearms,Government (General),1.0,4.0,0,352642604.8278259,True
+1987,11,20,Peru,South America,Junin,Huancayo district,Facility/Infrastructure Attack,Firearms,Business,1.0,0.0,1,387931336.85429037,True
+1987,11,23,South Africa,Sub-Saharan Africa,KwaZulu-Natal,Umlazi,Unknown,Unknown,Police,3.0,2.0,1,300948986.2537008,True
+1987,11,24,Haiti,Central America & Caribbean,Ouest,Port-au-Prince,Facility/Infrastructure Attack,Firearms,Business,1.0,0.0,1,764075298.8809181,True
+1987,11,29,Philippines,Southeast Asia,Ilocos Norte,Currimao,Hostage Taking (Kidnapping),Firearms,Police,2.0,0.0,1,216158464.83002934,True
+1987,12,18,Colombia,South America,Caqueta,La Montanita,Armed Assault,Firearms,Private Citizens & Property,5.0,2.0,1,225199921.92464358,True
+1987,12,23,Guatemala,Central America & Caribbean,Quiche,Playa Grande,Armed Assault,Firearms,Police,5.0,4.0,1,283865047.08297956,True
+1987,12,23,Peru,South America,Cajamarca,Agua Blanca,Armed Assault,Firearms,Military,5.0,2.0,1,225199921.92464358,True
+1988,1,7,Philippines,Southeast Asia,Leyte,Matalom,Hostage Taking (Kidnapping),Unknown,Government (General),2.0,0.0,0,216158464.83002934,True
+1988,1,13,Colombia,South America,Antioquia,Medellin,Assassination,Explosives,Private Citizens & Property,2.0,5.0,1,677207418.3369395,True
+1988,2,1,South Africa,Sub-Saharan Africa,Transkei,Unknown,Unknown,Unknown,Police,3.0,1.0,1,191419933.72770137,True
+1988,2,2,Colombia,South America,Tolima,Ibague,Unarmed Assault,Melee,Educational Institution,1.0,0.0,0,804821746.0578922,True
+1988,2,11,Peru,South America,Huanuco,Ambo,Armed Assault,Firearms,Military,8.0,0.0,1,257626521.117627,True
+1988,2,14,Cyprus,Western Europe,Limassol,Limassol,Assassination,Explosives,Terrorists/Non-State Militia,3.0,0.0,0,639657210.1048746,True
+1988,2,21,Guatemala,Central America & Caribbean,Quiche,Nebaj,Unknown,Unknown,Military,0.0,20.0,1,1295509054.7673252,True
+1988,2,22,New Caledonia,Australasia & Oceania,North Province,Poindimie,Hostage Taking (Kidnapping),Firearms,Police,0.0,0.0,0,3534939925.5581193,True
+1988,3,6,Israel,Middle East & North Africa,Unknown,Araur Junction,Hijacking,Firearms,Transportation,6.0,0.0,0,2000811576.2117069,True
+1988,3,17,El Salvador,Central America & Caribbean,Chalatenango,San Miguel de Mercedes,Facility/Infrastructure Attack,Firearms,Government (General),1.0,0.0,1,764075298.8809181,True
+1988,3,26,Philippines,Southeast Asia,Unknown,Lanao,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,0.0,10.0,1,372442753.925692,True
+1988,4,24,New Caledonia,Australasia & Oceania,North Province,Pouembout,Assassination,Unknown,Police,0.0,1.0,0,2651347150.2547464,True
+1988,4,26,United Kingdom,Western Europe,Northern Ireland,Carrickmore,Bombing/Explosion,Explosives,Military,2.0,0.0,1,342120957.7235142,True
+1988,4,27,New Caledonia,Australasia & Oceania,South Province,Noumea,Hostage Taking (Kidnapping),Firearms,Police,0.0,0.0,0,3534939925.5581193,True
+1988,4,28,Martinique,Central America & Caribbean,Fort-de-France,Fort-de-France,Facility/Infrastructure Attack,Incendiary,Telecommunication,0.0,1.0,1,204215383.8040697,True
+1988,5,2,Peru,South America,Huanuco,Pallanchacra,Assassination,Firearms,Police,4.0,1.0,0,193467205.76124418,True
+1988,5,3,Colombia,South America,Valle del Cauca,Cali,Hostage Taking (Kidnapping),Firearms,Government (Diplomatic),1.0,1.0,0,193467205.76124418,True
+1988,5,3,New Caledonia,Australasia & Oceania,South Province,Noumea,Assassination,Explosives,Violent Political Party,0.0,0.0,0,2651347150.2547464,True
+1988,5,15,New Caledonia,Australasia & Oceania,South Province,Saint Louis,Assassination,Firearms,Police,0.0,1.0,0,2651347150.2547464,True
+1988,5,20,Colombia,South America,Casanare,San Luis de Palenque,Unknown,Unknown,Private Citizens & Property,2.0,4.0,1,626586463.3383968,True
+1988,5,23,United Kingdom,Western Europe,Northern Ireland,Londonderry,Bombing/Explosion,Explosives,Business,2.0,0.0,1,342120957.7235142,True
+1988,5,29,Colombia,South America,Bogota,Bogota,Hostage Taking (Kidnapping),Firearms,Government (General),1.0,1.0,0,193467205.76124418,True
+1988,6,3,Peru,South America,Ancash,Huarancayocc,Armed Assault,Firearms,Private Citizens & Property,8.0,0.0,1,257626521.117627,True
+1988,6,12,South Africa,Sub-Saharan Africa,Eastern Cape,Uitenhage,Facility/Infrastructure Attack,Incendiary,Private Citizens & Property,2.0,0.0,1,556613821.1369431,True
+1988,6,29,Suriname,South America,Marowijne,Patamaca,Armed Assault,Firearms,Military,6.0,4.0,1,601959156.9405544,True
+1988,7,9,El Salvador,Central America & Caribbean,San Miguel,Sesori,Unknown,Unknown,Military,0.0,10.0,1,711179767.1982217,True
+1988,7,17,Honduras,Central America & Caribbean,Cortes,San Pedro Sula,Assassination,Explosives,Military,0.0,4.0,0,583472523.3632762,True
+1988,7,18,Australia,Australasia & Oceania,Australian Capital Territory,Canberra,Assassination,Explosives,Military,0.0,0.0,1,2651347150.2547464,True
+1988,7,28,Peru,South America,Apurimac,Lambrama district,Armed Assault,Firearms,Military,7.0,3.0,1,495951645.13083017,True
+1988,8,1,Peru,South America,Lima,Lima,Facility/Infrastructure Attack,Firearms,Military,1.0,0.0,1,387931336.85429037,True
+1988,8,10,Japan,East Asia,Tokyo,Tokyo,Unknown,Unknown,Business,0.0,0.0,1,2654071375.309495,True
+1988,8,18,Peru,South America,Ayacucho,Sanabamba,Armed Assault,Firearms,Private Citizens & Property,8.0,0.0,1,257626521.117627,True
+1988,9,13,Lesotho,Sub-Saharan Africa,Maseru,Maseru,Hijacking,Firearms,Religious Figures/Institutions,4.0,11.0,1,1267324880.9805374,True
+1988,10,16,United Kingdom,Western Europe,Northern Ireland,Belfast,Assassination,Firearms,Terrorists/Non-State Militia,2.0,4.0,0,460636203.542466,True
+1988,11,10,Mexico,North America,Tabasco,Macuspana,Assassination,Firearms,Private Citizens & Property,2.0,0.0,0,431397146.5577391,True
+1988,11,14,Colombia,South America,Casanare,Pore,Armed Assault,Firearms,Private Citizens & Property,7.0,2.0,1,348036242.4356703,True
+1988,11,18,Nicaragua,Central America & Caribbean,Jinotega,Unknown,Armed Assault,Firearms,Business,5.0,2.0,1,336776246.2860371,True
+1988,11,21,Peru,South America,Lima,Tupe,Armed Assault,Firearms,Private Citizens & Property,5.0,4.0,1,206100863.0426654,True
+1988,12,1,Colombia,South America,Cesar,Loma de Sabaneta,Armed Assault,Firearms,Police,8.0,0.0,1,257626521.117627,True
+1989,1,4,Peru,South America,Ayacucho,Occollo,Armed Assault,Firearms,Private Citizens & Property,8.0,0.0,1,257626521.117627,True
+1994,2,3,Georgia,Central Asia,Tbilisi,Tbilisi,Assassination,Explosives,Government (General),2.0,1.0,0,305169269.5801383,True
+1994,2,20,Pakistan,South Asia,North-West Frontier Province,Peshawar,Hijacking,Explosives,Educational Institution,3.0,0.0,0,1472454093.0262475,True
+1994,2,21,Yemen,Middle East & North Africa,Hadramawt,Al-Mukalla,Hijacking,Firearms,Business,2.0,0.0,0,811174890.6647543,True
+1994,3,15,Algeria,Middle East & North Africa,Blida,Blida,Facility/Infrastructure Attack,Incendiary,Private Citizens & Property,1.0,0.0,1,332526904.62804246,True
+1994,3,18,Australia,Australasia & Oceania,New South Wales,Sydney,Facility/Infrastructure Attack,Incendiary,Religious Figures/Institutions,0.0,0.0,1,666857083.374963,True
+1994,3,20,Canada,North America,Quebec,Quebec,Unknown,Unknown,Religious Figures/Institutions,0.0,0.0,1,1325602472.7092946,True
+1994,3,25,Australia,Australasia & Oceania,Victoria,Melbourne,Unknown,Unknown,Government (Diplomatic),0.0,0.0,1,2445103712.5826073,True
+1994,3,30,Mexico,North America,Guanajuato,Guanajuato,Facility/Infrastructure Attack,Incendiary,Private Citizens & Property,0.0,9.0,1,859854246.9019543,True
+1994,4,6,Hong Kong,East Asia,Hong Kong,Hong Kong,Unknown,Unknown,Government (General),0.0,1.0,0,221184476.7790596,True
+1994,4,20,Georgia,Central Asia,Tbilisi,Tbilisi,Assassination,Firearms,Government (General),3.0,0.0,0,583348800.4412764,True
+1994,4,28,Mexico,North America,Baja California,Tijuana,Assassination,Firearms,Police,2.0,0.0,0,431397146.5577391,True
+1994,5,13,Peru,South America,San Martin,Tocache,Facility/Infrastructure Attack,Firearms,Airports & Aircraft,1.0,0.0,1,387931336.85429037,True
+1994,6,6,China,East Asia,Fujian,Fuzhou,Hijacking,Unknown,Airports & Aircraft,0.0,0.0,0,484467073.5524151,True
+1994,6,14,Wallis and Futuna,Australasia & Oceania,Uvea,Matautu,Facility/Infrastructure Attack,Incendiary,Government (General),0.0,0.0,1,666857083.374963,True
+1994,6,15,Tajikistan,Central Asia,Districts of Republican Subordination,Gharm,Assassination,Firearms,Government (General),6.0,0.0,0,1111380940.7859309,True
+1994,6,16,United Kingdom,Western Europe,Northern Ireland,Belfast,Assassination,Firearms,Private Citizens & Property,3.0,1.0,0,388707206.11304283,True
+1994,6,18,United Kingdom,Western Europe,Northern Ireland,Loughinisland,Assassination,Firearms,Private Citizens & Property,6.0,5.0,0,650298306.3256103,True
+1994,6,28,Guatemala,Central America & Caribbean,Guatemala,Guatemala City,Hijacking,Firearms,Government (Diplomatic),0.0,0.0,0,1086620574.2972827,True
+1994,7,11,Sri Lanka,South Asia,North Central,Polonnaruwa,Unarmed Assault,Melee,Violent Political Party,2.0,0.0,1,213185596.23931023,True
+1994,7,22,Colombia,South America,Santander,Confines,Unknown,Unknown,Business,2.0,1.0,1,194490841.78775868,True
+1994,7,26,Cuba,Central America & Caribbean,Havana,Havana,Hijacking,Unknown,Maritime,0.0,0.0,0,1086620574.2972827,True
+1994,7,29,United States,North America,Florida,Pensacola,Assassination,Firearms,Abortion Related,2.0,1.0,0,412062690.5735005,True
+1994,7,29,Guatemala,Central America & Caribbean,Guatemala,Guatemala City,Unknown,Unknown,Government (Diplomatic),1.0,0.0,1,558190794.5892751,True
+1994,8,3,Cuba,Central America & Caribbean,Havana,Havana,Hijacking,Unknown,Maritime,0.0,0.0,0,1086620574.2972827,True
+1994,8,5,Cuba,Central America & Caribbean,Havana,Havana,Hijacking,Unknown,Maritime,0.0,0.0,0,1086620574.2972827,True
+1994,8,7,Guatemala,Central America & Caribbean,Guatemala,Guatemala City,Hijacking,Unknown,Airports & Aircraft,0.0,0.0,0,1086620574.2972827,True
+1994,8,12,Cuba,Central America & Caribbean,Unknown,Unknown,Hijacking,Firearms,Maritime,0.0,0.0,0,1086620574.2972827,True
+1994,8,23,Cuba,Central America & Caribbean,Havana,Havana,Hijacking,Melee,Maritime,0.0,2.0,0,543406968.8140017,True
+1994,9,5,Australia,Australasia & Oceania,Australian Capital Territory,Canberra,Assassination,Firearms,Government (General),0.0,0.0,0,2651347150.2547464,True
+1994,9,12,United States,North America,District of Columbia,Washington,Facility/Infrastructure Attack,Unknown,Government (General),1.0,0.0,1,849534065.2277768,True
+1994,9,13,New Zealand,Australasia & Oceania,Auckland,Auckland,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,0.0,0.0,0,3534939925.5581193,True
+1994,9,13,India,South Asia,Jammu and Kashmir,Doda district,Hijacking,Firearms,Educational Institution,1.0,1.0,0,478319918.21538943,True
+1994,9,29,Mexico,North America,Chiapas,Chamula,Assassination,Firearms,Private Citizens & Property,3.0,1.0,0,294527042.8088709,True
+1994,10,16,Papua New Guinea,Australasia & Oceania,Bougainville,Unknown,Armed Assault,Firearms,Maritime,0.0,0.0,1,1990309988.3406322,True
+1994,10,18,Indonesia,Southeast Asia,Jakarta,Jakarta,Facility/Infrastructure Attack,Melee,Military,0.0,4.0,1,202679930.80039197,True
+1994,10,20,Mali,Sub-Saharan Africa,Gao,Ansongo,Unknown,Unknown,Private Citizens & Property,3.0,4.0,1,393587965.4016245,True
+1994,10,25,Russia,Eastern Europe,Dagestan,Makhachkala,Hijacking,Explosives,Airports & Aircraft,1.0,0.0,0,444042724.57239497,True
+1994,10,27,Russia,Eastern Europe,Dagestan,Makhachkala,Hijacking,Fake Weapons,Airports & Aircraft,0.0,0.0,0,1994319222.6271462,True
+1994,11,2,Russia,Eastern Europe,Moscow,Moscow,Unknown,Unknown,Government (General),1.0,0.0,0,377568556.70749414,True
+1994,11,8,Mexico,North America,Federal,Mexico City,Unknown,Unknown,Business,0.0,0.0,1,1325602472.7092946,True
+1994,11,10,Nicaragua,Central America & Caribbean,Unknown,Nueva Esparanza,Unknown,Unknown,Private Citizens & Property,6.0,0.0,1,239075418.03900903,True
+1994,11,14,Tajikistan,Central Asia,Dushanbe,Dushanbe,Assassination,Firearms,Journalists & Media,0.0,0.0,0,220300925.7294498,True
+1994,11,16,Papua New Guinea,Australasia & Oceania,National Capital District,Port Moresby,Unknown,Unknown,Government (Diplomatic),0.0,0.0,1,2445103712.5826073,True
+1994,11,17,Russia,Eastern Europe,Moscow,Moscow,Assassination,Firearms,Business,0.0,3.0,0,246184460.06913662,True
+1994,11,23,Russia,Eastern Europe,Komi Republic,Syktyvkar,Hijacking,Explosives,Airports & Aircraft,0.0,0.0,0,1994319222.6271462,True
+1994,12,10,United States,North America,New Jersey,Caldwell,Bombing/Explosion,Explosives,Business,1.0,0.0,1,268637832.97737485,True
+1994,12,14,United States,North America,New York,Albany,Hostage Taking (Barricade Incident),Firearms,Educational Institution,0.0,1.0,1,194490841.78775868,True
+1994,12,24,Algeria,Middle East & North Africa,Algiers,Algiers,Hijacking,Unknown,Airports & Aircraft,3.0,0.0,0,1065979591.3654177,True
+1994,12,25,Philippines,Southeast Asia,Basilan,Unknown,Hostage Taking (Kidnapping),Melee,Government (General),2.0,0.0,0,216158464.83002934,True
+1995,1,5,Russia,Eastern Europe,Moscow,Moscow,Assassination,Melee,Business,2.0,0.0,0,300139704.6979133,True
+1995,1,10,Mexico,North America,Chiapas,Chicomuselo,Hostage Taking (Kidnapping),Unknown,Government (General),2.0,2.0,1,580114645.6258354,True
+1995,1,18,South Africa,Sub-Saharan Africa,KwaZulu-Natal,Izingolweni,Armed Assault,Firearms,Private Citizens & Property,8.0,2.0,1,343941698.37116826,True
+1995,1,19,South Korea,East Asia,Gwangju,Gwangju,Unknown,Unknown,Police,0.0,1.0,1,221184476.7790596,True
+1995,1,20,Philippines,Southeast Asia,Basilan,Maluso,Hostage Taking (Kidnapping),Melee,Private Citizens & Property,2.0,0.0,0,216158464.83002934,True
+1995,2,6,Mexico,North America,Chiapas,Chiapa de Corzo,Unknown,Unknown,Private Citizens & Property,0.0,0.0,1,1325602472.7092946,True
+1995,2,6,Mexico,North America,Chiapas,Suchiate,Unknown,Unknown,Private Citizens & Property,0.0,0.0,1,1325602472.7092946,True
+1995,2,6,Mexico,North America,Chiapas,Suchiate,Unknown,Unknown,Private Citizens & Property,0.0,0.0,1,1325602472.7092946,True
+1995,2,9,Indonesia,Southeast Asia,East Timor,Dili,Hostage Taking (Kidnapping),Unknown,Private Citizens & Property,0.0,4.0,0,436068939.65099967,True
+1995,2,14,Tajikistan,Central Asia,Dushanbe,Dushanbe,Assassination,Firearms,Military,2.0,0.0,0,517324646.3951465,True
+1995,2,15,Tajikistan,Central Asia,Khatlon,Tajik / Afghan Border,Assassination,Firearms,Military,2.0,0.0,0,517324646.3951465,True
+1995,3,3,Japan,East Asia,Tokyo,Tokyo,Unknown,Unknown,Government (General),0.0,0.0,0,2654071375.309495,True
+1995,3,5,Cambodia,Southeast Asia,Unknown,Unknown,Hostage Taking (Kidnapping),Firearms,Police,2.0,0.0,0,216158464.83002934,True
+1995,3,9,Thailand,Southeast Asia,Tak,Mae Sot,Facility/Infrastructure Attack,Firearms,Private Citizens & Property,2.0,0.0,1,767435028.401679,True
+1995,3,17,Brazil,South America,Rio de Janeiro,Rio de Janeiro,Unarmed Assault,Melee,Police,0.0,2.0,0,368508962.4925955,True
+1995,3,21,Myanmar,Southeast Asia,Yangon,Yangon,Hijacking,Firearms,Maritime,0.0,0.0,0,1110900232.9050977,True
+1995,3,24,Georgia,Central Asia,Tbilisi,Tbilisi,Assassination,Firearms,Terrorists/Non-State Militia,1.0,2.0,0,302996258.32951784,True
+1995,3,29,Russia,Eastern Europe,Khabarovsk Krai,Khabarovsk,Assassination,Unknown,Tourists,2.0,0.0,0,300139704.6979133,True
+1995,4,9,Pakistan,South Asia,North-West Frontier Province,Shabqadar,Unarmed Assault,Melee,Private Citizens & Property,1.0,1.0,0,559170210.8423938,True
+1995,4,14,Austria,Western Europe,Vienna,Vienna,Bombing/Explosion,Explosives,Utilities,2.0,0.0,1,342120957.7235142,True
+1995,4,19,Spain,Western Europe,Madrid,Madrid,Assassination,Explosives,Government (General),0.0,16.0,0,577235298.0749719,True
+1995,4,24,United States,North America,California,Sacramento,Bombing/Explosion,Explosives,Private Citizens & Property,1.0,0.0,1,268637832.97737485,True
+1995,5,1,France,Western Europe,Ile-de-France,Paris,Unknown,Unknown,Tourists,1.0,0.0,0,809080062.1912892,True
+1995,5,15,Mexico,North America,Tabasco,Unknown,Unknown,Unknown,Police,0.0,1.0,0,1325602472.7092946,True
+1995,5,21,Turkey,Middle East & North Africa,Antalya,Alanya,Hostage Taking (Kidnapping),Unknown,Tourists,2.0,1.0,0,194490841.78775868,True
+1995,5,21,Brazil,South America,Unknown,Unknown,Unarmed Assault,Melee,Government (General),0.0,2.0,0,368508962.4925955,True
+1995,5,27,Burundi,Sub-Saharan Africa,Unknown,Unknown,Unknown,Unknown,Private Citizens & Property,3.0,1.0,1,191419933.72770137,True
+1995,6,3,Australia,Australasia & Oceania,Queensland,Townsville,Unknown,Unknown,Private Citizens & Property,0.0,0.0,1,2445103712.5826073,True
+1995,6,7,Russia,Eastern Europe,Buryatia,Ulan-Ude,Hijacking,Firearms,Airports & Aircraft,0.0,0.0,0,1994319222.6271462,True
+1995,6,11,Colombia,South America,Caldas,Pensilvania,Hostage Taking (Kidnapping),Firearms,Government (General),0.0,3.0,0,379257140.9698309,True
+1995,6,17,Australia,Australasia & Oceania,Western Australia,Perth,Facility/Infrastructure Attack,Incendiary,Government (Diplomatic),0.0,0.0,1,666857083.374963,True
+1995,6,21,Japan,East Asia,Hokkaido,Hakodate,Hijacking,Melee,Airports & Aircraft,0.0,0.0,0,484467073.5524151,True
+1995,6,22,Tajikistan,Central Asia,Dushanbe,Dushanbe,Assassination,Firearms,Military,2.0,0.0,0,517324646.3951465,True
+1995,6,25,Tajikistan,Central Asia,Districts of Republican Subordination,Kofarnikhon,Assassination,Firearms,Military,3.0,0.0,0,583348800.4412764,True
+1995,7,1,Russia,Eastern Europe,Sakha,Yakutsk,Hijacking,Unknown,Airports & Aircraft,0.0,0.0,0,1994319222.6271462,True
+1995,7,6,Haiti,Central America & Caribbean,Nord,Cap-Haitien,Unknown,Unknown,Private Citizens & Property,1.0,1.0,1,311510603.0290843,True
+1995,7,21,Australia,Australasia & Oceania,Australian Capital Territory,Canberra,Unknown,Unknown,Government (Diplomatic),0.0,0.0,1,2445103712.5826073,True
+1995,7,28,Germany,Western Europe,North Rhine-Westphalia,Cologne,Hijacking,Unknown,Tourists,3.0,3.0,0,2326418080.8195534,True
+1995,8,2,Azerbaijan,Central Asia,Baku,Baku,Assassination,Explosives,Government (General),0.0,0.0,0,220300925.7294498,True
+1995,8,4,Russia,Eastern Europe,Moscow,Moscow,Assassination,Chemical,Business,2.0,0.0,0,300139704.6979133,True
+1995,8,21,Papua New Guinea,Australasia & Oceania,Bougainville,Soraken,Armed Assault,Incendiary,Government (General),0.0,0.0,1,1990309988.3406322,True
+1995,8,21,Papua New Guinea,Australasia & Oceania,Bougainville,Arawa,Armed Assault,Incendiary,Government (General),0.0,0.0,1,1990309988.3406322,True
+1995,8,29,United States,North America,Florida,St. Petersburg,Facility/Infrastructure Attack,Incendiary,Abortion Related,0.0,2.0,1,232877192.12505555,True
+1995,9,8,West Bank and Gaza Strip,Middle East & North Africa,West Bank,Halhol,Facility/Infrastructure Attack,Firearms,Private Citizens & Property,1.0,0.0,1,332526904.62804246,True
+1995,9,8,Australia,Australasia & Oceania,Australian Capital Territory,Canberra,Unknown,Unknown,Business,0.0,0.0,0,2445103712.5826073,True
+1995,9,9,Egypt,Middle East & North Africa,Qena,Farshout,Facility/Infrastructure Attack,Firearms,Business,1.0,0.0,1,332526904.62804246,True
+1995,9,11,Chile,South America,Santiago Metropolitan,Santiago,Unarmed Assault,Melee,Police,1.0,5.0,1,729392599.1143367,True
+1995,9,21,Russia,Eastern Europe,Dagestan,Makhachkala,Hijacking,Firearms,Transportation,0.0,2.0,0,665199241.52029,True
+1995,9,26,Mexico,North America,Guerrero,La Cebada,Assassination,Firearms,Business,4.0,0.0,0,410178469.02056015,True
+1995,9,27,Colombia,South America,Bogota,Bogota,Assassination,Firearms,Private Citizens & Property,2.0,2.0,0,350083514.49891794,True
+1995,9,28,Tajikistan,Central Asia,Dushanbe,Dushanbe,Assassination,Firearms,Military,2.0,2.0,0,312844457.43657726,True
+1995,10,2,Georgia,Central Asia,Shida Kartli,Tskhinvali,Assassination,Explosives,Private Citizens & Property,0.0,0.0,0,220300925.7294498,True
+1995,10,3,Papua New Guinea,Australasia & Oceania,Bougainville,Buin,Unknown,Unknown,Educational Institution,0.0,0.0,1,2445103712.5826073,True
+1995,10,4,Papua New Guinea,Australasia & Oceania,Bougainville,Buin,Assassination,Firearms,Military,1.0,1.0,0,1105024248.4685717,True
+1995,10,11,Indonesia,Southeast Asia,East Timor,Dili,Hostage Taking (Kidnapping),Unknown,Police,0.0,2.0,1,214963562.07866183,True
+1995,10,14,Russia,Eastern Europe,Moscow,Moscow,Hijacking,Firearms,Tourists,1.0,0.0,0,444042724.57239497,True
+1995,10,16,South Korea,East Asia,Seoul,Seoul,Unknown,Unknown,Government (General),0.0,0.0,1,2654071375.309495,True
+1995,10,21,Tajikistan,Central Asia,Dushanbe,Dushanbe,Assassination,Firearms,Police,2.0,0.0,0,517324646.3951465,True
+1995,11,6,Azerbaijan,Central Asia,Baku,Baku,Assassination,Explosives,Government (General),0.0,0.0,0,220300925.7294498,True
+1995,12,3,China,East Asia,Guangdong,Shenzen,Unknown,Unknown,Government (General),0.0,0.0,1,2654071375.309495,True
+1995,12,10,Haiti,Central America & Caribbean,Sud,Les Cayes,Unknown,Unknown,Government (General),1.0,0.0,1,558190794.5892751,True
+1995,12,21,Canada,North America,Quebec,Beaconsfield,Bombing/Explosion,Explosives,Private Citizens & Property,1.0,0.0,1,268637832.97737485,True
+1995,12,24,Haiti,Central America & Caribbean,Ouest,Port-au-Prince,Assassination,Firearms,Government (General),2.0,2.0,0,409454402.6584394,True
+1995,12,24,Haiti,Central America & Caribbean,Ouest,Port-au-Prince,Assassination,Firearms,Private Citizens & Property,0.0,4.0,0,583472523.3632762,True
+1996,1,6,Taiwan,East Asia,Taipei,Taipei,Hijacking,Fake Weapons,Airports & Aircraft,0.0,0.0,0,484467073.5524151,True
+1996,1,8,Mexico,North America,Jalisco,Perula,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,2.0,2.0,0,580114645.6258354,True
+1996,1,8,Indonesia,Southeast Asia,Papua,"Mapunduma V., Irian Jaya",Hostage Taking (Kidnapping),Unknown,Private Citizens & Property,2.0,0.0,0,216158464.83002934,True
+1996,1,12,Papua New Guinea,Australasia & Oceania,Bougainville,Bougainville Island,Unknown,Unknown,Private Citizens & Property,0.0,1.0,1,1334048454.360481,True
+1996,1,12,Papua New Guinea,Australasia & Oceania,Bougainville,Bougainville Island,Unknown,Unknown,Private Citizens & Property,0.0,1.0,1,1334048454.360481,True
+1996,1,12,Papua New Guinea,Australasia & Oceania,Bougainville,Bougainville Island,Unknown,Unknown,Private Citizens & Property,0.0,1.0,1,1334048454.360481,True
+1996,1,17,Russia,Eastern Europe,Khanty-Mansi,Surgut district,Hijacking,Firearms,Utilities,1.0,0.0,0,444042724.57239497,True
+1996,1,21,Tajikistan,Central Asia,Dushanbe,Dushanbe,Assassination,Firearms,Religious Figures/Institutions,5.0,0.0,0,999859472.2485406,True
+1996,1,23,United States,North America,Florida,Miami,Bombing/Explosion,Explosives,Journalists & Media,1.0,0.0,1,268637832.97737485,True
+1996,2,15,Mexico,North America,Jalisco,Guadalajara,Hostage Taking (Kidnapping),Unknown,Private Citizens & Property,2.0,0.0,0,691760521.1733829,True
+1996,2,15,Guatemala,Central America & Caribbean,Guatemala,Guatemala City,Hostage Taking (Kidnapping),Firearms,Business,0.0,2.0,0,321933524.4182337,True
+1996,2,22,Mexico,North America,Guerrero,Unknown,Assassination,Firearms,Private Citizens & Property,4.0,0.0,0,410178469.02056015,True
+1996,3,8,Tajikistan,Central Asia,Districts of Republican Subordination,Ramit,Assassination,Firearms,Government (General),4.0,0.0,0,776926349.6274292,True
+1996,3,8,Tajikistan,Central Asia,Sughd,Konibodom,Assassination,Firearms,Government (General),1.0,2.0,0,302996258.32951784,True
+1996,3,27,Mexico,North America,Guerrero,Acapulco,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,1.0,0.0,0,637406746.3406882,True
+1996,3,30,Colombia,South America,Bolivar,Unknown,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,0.0,6.0,0,674193864.0929844,True
+1996,5,2,Sri Lanka,South Asia,Eastern,Unknown,Hijacking,Unknown,Transportation,1.0,0.0,0,643156508.9216053,True
+1996,5,30,Colombia,South America,Valle del Cauca,Cali,Armed Assault,Firearms,Private Citizens & Property,7.0,1.0,1,202679929.7759275,True
+1996,6,2,Papua New Guinea,Australasia & Oceania,Bougainville,Tohei,Armed Assault,Firearms,Private Citizens & Property,6.0,1.0,1,221620769.77985278,True
+1996,6,16,Thailand,Southeast Asia,Suria,Unknown,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,1.0,2.0,0,291736262.2752744,True
+1996,7,14,Brazil,South America,Sao Paulo,Francisco Morato,Armed Assault,Firearms,Private Citizens & Property,5.0,2.0,1,225199921.92464358,True
+1996,7,16,Ukraine,Eastern Europe,Kiev,Kiev,Assassination,Explosives,Government (General),0.0,3.0,0,246184460.06913662,True
+1996,7,22,Mexico,North America,Michoacan,Morelia,Assassination,Firearms,Private Citizens & Property,5.0,1.0,0,405342967.10914654,True
+1996,8,24,Armenia,Central Asia,Yerevan,Yerevan,Assassination,Firearms,Business,2.0,0.0,0,517324646.3951465,True
+1997,2,10,China,East Asia,Guangdong,Guangzhou,Hijacking,Unknown,Airports & Aircraft,0.0,0.0,0,484467073.5524151,True
+1997,2,12,Egypt,Middle East & North Africa,Minya,Kom Al-Zuheir,Armed Assault,Firearms,Religious Figures/Institutions,10.0,3.0,1,218954650.46197686,True
+1997,3,1,China,East Asia,Xinjiang,Urumqi,Bombing/Explosion,Explosives,Police,1.0,0.0,1,762171622.9232181,True
+1997,3,10,Taiwan,East Asia,Kaohsiung,Kaohsiung,Hijacking,Incendiary,Airports & Aircraft,0.0,0.0,0,484467073.5524151,True
+1997,3,11,Haiti,Central America & Caribbean,Ouest,Port-au-Prince,Unknown,Unknown,Government (General),1.0,1.0,1,311510603.0290843,True
+1997,3,12,Mexico,North America,Puebla,Zaragoza,Assassination,Firearms,Government (General),2.0,0.0,0,431397146.5577391,True
+1997,3,13,Jamaica,Central America & Caribbean,Kingston Parish,Kingston,Armed Assault,Firearms,Business,4.0,3.0,1,422249852.9800026,True
+1997,3,22,Mexico,North America,Guerrero,Xalpatlahuac,Assassination,Firearms,Government (General),2.0,0.0,0,431397146.5577391,True
+1997,3,23,Colombia,South America,Santander,Barrancabermeja,Assassination,Firearms,Military,2.0,1.0,0,193467205.76124415,True
+1997,3,24,Colombia,South America,Bolivar,Carmen de Bolivar,Assassination,Firearms,Private Citizens & Property,4.0,2.0,0,350083514.49891794,True
+1997,4,1,Panama,Central America & Caribbean,Guna Yala,Titina Tiwar,Unknown,Unknown,Private Citizens & Property,1.0,0.0,0,558190794.5892751,True
+1997,4,1,Panama,Central America & Caribbean,Guna Yala,Titina Tiwar,Unknown,Unknown,Private Citizens & Property,1.0,0.0,0,558190794.5892751,True
+1997,4,7,Honduras,Central America & Caribbean,Cortes,San Pedro Sula,Hijacking,Firearms,Business,0.0,1.0,0,815023489.4570925,True
+1997,4,9,Mexico,North America,Baja California,Tijuana,Assassination,Firearms,Journalists & Media,2.0,0.0,0,431397146.5577391,True
+1997,4,27,United States,North America,Texas,Fort Davis,Hostage Taking (Kidnapping),Firearms,Government (General),0.0,1.0,0,204727201.82921967,True
+1997,4,30,Tajikistan,Central Asia,Sughd,Khujand,Assassination,Explosives,Government (General),2.0,2.0,0,312844457.43657726,True
+1997,5,5,Chile,South America,Santiago Metropolitan,Santiago,Unarmed Assault,Melee,Police,0.0,10.0,1,1324213746.4230013,True
+1997,5,15,Haiti,Central America & Caribbean,Ouest,Port-au-Prince,Facility/Infrastructure Attack,Melee,Business,0.0,5.0,1,843987886.6737694,True
+1997,5,20,Colombia,South America,Cordoba,San Pelayo district,Armed Assault,Firearms,Private Citizens & Property,8.0,0.0,1,257626521.117627,True
+1997,6,1,Papua New Guinea,Australasia & Oceania,Bougainville,Tinputz,Hostage Taking (Kidnapping),Unknown,Government (General),0.0,0.0,0,3534939925.5581193,True
+1997,6,4,Mexico,North America,Zacatecas,Rio Grande,Assassination,Firearms,Private Citizens & Property,4.0,0.0,0,410178469.02056015,True
+1997,6,4,Mexico,North America,Veracruz,Xalapa,Unknown,Unknown,Private Citizens & Property,2.0,0.0,0,1325602472.7092946,True
+1997,6,4,Papua New Guinea,Australasia & Oceania,Bougainville,Tinputz,Hostage Taking (Kidnapping),Unknown,Government (General),0.0,0.0,0,3534939925.5581193,True
+1997,6,6,Guatemala,Central America & Caribbean,Guatemala,G.C.,Hijacking,Firearms,Government (Diplomatic),0.0,0.0,0,1086620574.2972827,True
+1997,6,9,Guatemala,Central America & Caribbean,Guatemala,G.C.,Hijacking,Firearms,Business,0.0,1.0,0,815023489.4570925,True
+1997,6,20,Mexico,North America,Federal,Mexico City,Unknown,Unknown,Government (General),0.0,1.0,0,1325602472.7092946,True
+1997,6,22,Albania,Eastern Europe,Puke,Luf,Unknown,Unknown,Private Citizens & Property,1.0,0.0,0,377568556.70749414,True
+1997,6,26,Albania,Eastern Europe,Lushnje,Lushnje,Assassination,Firearms,Government (General),0.0,9.0,1,421358021.06701577,True
+1997,7,4,Uganda,Sub-Saharan Africa,Western,Kijura,Unknown,Unknown,Military,3.0,3.0,1,355415531.89205533,True
+1997,7,8,Dominican Republic,Central America & Caribbean,National,Santo Domingo,Unknown,Unknown,Police,0.0,3.0,1,422249853.14776576,True
+1997,7,10,Spain,Western Europe,Basque Country,Ermua,Hostage Taking (Kidnapping),Firearms,Government (General),1.0,0.0,0,638747417.729965,True
+1997,7,13,Russia,Eastern Europe,Chechnya,Grozny,Hijacking,Firearms,Government (General),0.0,0.0,0,1994319222.6271462,True
+1997,7,15,Mexico,North America,Baja California,Tijuana,Hostage Taking (Kidnapping),Firearms,Tourists,2.0,0.0,0,691760521.1733829,True
+1997,7,20,Mexico,North America,State of Mexico,Netzahualcoyotl,Assassination,Firearms,Private Citizens & Property,2.0,0.0,0,431397146.5577391,True
+1997,7,30,Russia,Eastern Europe,Moscow,Moscow,Assassination,Firearms,Business,2.0,0.0,0,300139704.6979133,True
+1997,8,1,Mexico,North America,Aguascalientes,Aguascalientes,Unknown,Unknown,Private Citizens & Property,1.0,0.0,1,1325602472.7092946,True
+1997,8,5,Pakistan,South Asia,Sindh,Karachi,Unarmed Assault,Melee,Private Citizens & Property,2.0,0.0,0,213185596.23931023,True
+1997,8,20,Burundi,Sub-Saharan Africa,Kayanza,Nyamitanga,Unknown,Unknown,Private Citizens & Property,5.0,2.0,1,327563522.34942234,True
+1997,8,23,Tajikistan,Central Asia,Districts of Republican Subordination,Childara,Facility/Infrastructure Attack,Firearms,Government (Diplomatic),0.0,0.0,1,2654344654.489018,True
+1997,9,8,Colombia,South America,Antioquia,Mutata,Hostage Taking (Barricade Incident),Unknown,Private Citizens & Property,4.0,0.0,1,3027662756.447535,True
+1997,9,10,Burundi,Sub-Saharan Africa,Bujumbura Mairie,Rutegama,Unknown,Unknown,Private Citizens & Property,5.0,2.0,1,327563522.34942234,True
+1997,9,15,Mexico,North America,Federal,Mexico City,Unknown,Unknown,Journalists & Media,0.0,0.0,0,1325602472.7092946,True
+1997,9,17,Mexico,North America,Federal,Mexico City,Unknown,Unknown,Journalists & Media,0.0,0.0,0,1325602472.7092946,True
+1997,9,21,Mexico,North America,Chiapas,Los Altos de Chiapas,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,2.0,0.0,1,691760521.1733829,True
+1997,11,4,Mexico,North America,Guerrero,Unknown,Assassination,Firearms,Police,3.0,0.0,0,343601297.75184,True
+1997,11,6,Guatemala,Central America & Caribbean,Chimaltenango,Unknown,Unknown,Unknown,Military,1.0,2.0,1,274007686.2868743,True
+1997,11,14,Mexico,North America,Baja California,Tijuana,Armed Assault,Firearms,Police,2.0,0.0,1,298931268.35557884,True
+1997,11,19,Paraguay,South America,Asuncion,Asuncion,Facility/Infrastructure Attack,Melee,Government (General),0.0,3.0,1,230318102.44261235,True
+1997,11,23,Peru,South America,San Martin,Tocache,Armed Assault,Firearms,Military,7.0,7.0,1,246481237.6505958,True
+1997,12,1,Mexico,North America,Morelos,Cuernavaca,Hostage Taking (Kidnapping),Firearms,Business,3.0,0.0,0,789308461.2840484,True
+1997,12,9,Mexico,North America,Guerrero,Acapulco,Hostage Taking (Kidnapping),Firearms,Business,1.0,1.0,0,540780910.6022131,True
+1997,12,10,Russia,Eastern Europe,Chechnya,Grozny,Hijacking,Explosives,Airports & Aircraft,0.0,0.0,0,1994319222.6271462,True
+1997,12,15,Mexico,North America,Jalisco,San Juan de Ocotan,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,1.0,7.0,0,628584364.0621995,True
+1997,12,19,Russia,Eastern Europe,Moscow,Moscow,Hostage Taking (Kidnapping),Explosives,Government (Diplomatic),2.0,0.0,0,299855090.134044,True
+1997,12,30,United States,North America,Illinois,Oakwood,Bombing/Explosion,Explosives,Religious Figures/Institutions,1.0,0.0,1,268637832.97737485,True
+1998,4,9,Colombia,South America,Meta,Villavicencio,Unarmed Assault,Chemical,Religious Figures/Institutions,2.0,0.0,0,1271315066.7013986,True
+1998,4,9,Colombia,South America,Cundinamarca,Sibate,Unarmed Assault,Chemical,Religious Figures/Institutions,0.0,2.0,0,368508962.4925955,True
+1998,11,1,Australia,Australasia & Oceania,New South Wales (State),Lakemba,Armed Assault,Firearms,Police,0.0,0.0,1,1990309988.3406322,True
+1998,11,3,Angola,Sub-Saharan Africa,Uige,Quimussandi,Armed Assault,Firearms,Military,8.0,4.0,1,421059509.9657787,True
+1999,3,5,Russia,Eastern Europe,Chechnya,Grozny,Hostage Taking (Kidnapping),Firearms,Military,1.0,0.0,0,294187729.6257213,True
+1999,6,3,Peru,South America,Ayacucho,Ayacucho,Armed Assault,Firearms,Private Citizens & Property,6.0,3.0,0,524101635.10305166,True
+1999,6,6,Yugoslavia,Eastern Europe,Kosovo (Province),Besinje,Unknown,Unknown,Transportation,0.0,5.0,0,211421246.8486926,True
+1999,6,12,Solomon Islands,Australasia & Oceania,Guandacanal,Weather Coast,Armed Assault,Firearms,Private Citizens & Property,2.0,0.0,0,1770884068.764836,True
+1999,6,13,United Kingdom,Western Europe,Northern Ireland,Newry,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,1.0,0.0,0,638747417.729965,True
+1999,6,13,Peru,South America,Amazonas,Azul de Magdalena,Armed Assault,Firearms,Private Citizens & Property,8.0,0.0,0,257626521.117627,True
+1999,6,13,Kosovo,Eastern Europe,Kosovo (Province),Pristina,Unknown,Unknown,Military,3.0,0.0,0,500660410.1881863,True
+1999,7,17,Colombia,South America,Bogota,Bogota,Armed Assault,Firearms,Military,5.0,2.0,1,225199921.92464358,True
+1999,8,2,India,South Asia,Kerala,Unknown,Unarmed Assault,Chemical,Religious Figures/Institutions,2.0,0.0,0,213185596.23931023,True
+1999,10,8,Nigeria,Sub-Saharan Africa,Unknown,Unknown,Facility/Infrastructure Attack,Firearms,Business,0.0,8.0,1,200793003.46300817,True
+1999,10,18,Turkey,Middle East & North Africa,Diyarbakir,Bademli,Facility/Infrastructure Attack,Incendiary,Private Citizens & Property,1.0,0.0,1,332526904.62804246,True
+1999,12,24,Nepal,South Asia,Central,Kathmandu,Hijacking,Explosives,Airports & Aircraft,1.0,0.0,0,643156508.9216053,True
+2000,1,4,Armenia,Central Asia,Yerevan (Special Administrative Region),Yerevan,Facility/Infrastructure Attack,Incendiary,Journalists & Media,0.0,0.0,1,2654344654.489018,True
+2000,1,15,Thailand,Southeast Asia,Unknown,Ban Lard (District),Assassination,Firearms,Private Citizens & Property,1.0,4.0,0,234924464.5112049,True
+2000,3,2,Algeria,Middle East & North Africa,Blida (Province),Larbaa,Armed Assault,Explosives,Private Citizens & Property,10.0,3.0,1,218954650.46197686,True
+2000,4,1,Algeria,Middle East & North Africa,Sidi Bel Abbes (Province),Amelza,Unknown,Unknown,Police,5.0,1.0,0,194490841.78775868,True
+2000,5,19,Paraguay,South America,Asuncion,Asuncion,Facility/Infrastructure Attack,Explosives,Government (General),0.0,3.0,1,230318102.44261235,True
+2000,6,25,Algeria,Middle East & North Africa,Unknown,Bougara,Facility/Infrastructure Attack,Incendiary,Business,1.0,0.0,1,332526904.62804246,True
+2000,7,8,Burundi,Sub-Saharan Africa,Bujumbura Mairie,Ruziba,Unknown,Unknown,Private Citizens & Property,2.0,2.0,0,208821746.04296684,True
+2000,7,23,Kosovo,Eastern Europe,Pec,Istok,Hostage Taking (Kidnapping),Incendiary,Government (General),1.0,0.0,0,294187729.6257213,True
+2000,8,20,Spain,Western Europe,Aragon,Sallent de Gallego,Bombing/Explosion,Explosives,Police,2.0,0.0,1,342120957.7235142,True
+2000,11,24,India,South Asia,Jammu and Kashmir,Kishtwar,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,5.0,0.0,0,426438140.40218735,True
+2001,1,0,Colombia,South America,Santander,Barrancabermeja,Armed Assault,Firearms,Private Citizens & Property,8.0,0.0,0,257626521.117627,True
+2001,1,10,Algeria,Middle East & North Africa,Laghouat,Laghouat,Unknown,Unknown,Private Citizens & Property,4.0,3.0,0,405374986.1426166,True
+2001,1,23,Yemen,Middle East & North Africa,Amanat Al Asimah,Sanaa,Hijacking,Firearms,Airports & Aircraft,0.0,2.0,0,276381722.24671924,True
+2001,2,10,Vietnam,Southeast Asia,Dak Lak (Province),Unknown,Unarmed Assault,Chemical,Educational Institution,0.0,0.0,0,2211953878.907542,True
+2001,2,12,Colombia,South America,Norte de Santander,Cucuta,Assassination,Firearms,Educational Institution,1.0,3.0,1,239530826.11324015,True
+2001,2,14,Vietnam,Southeast Asia,Dak Lak (Province),Unknown,Unarmed Assault,Chemical,Educational Institution,0.0,0.0,0,2211953878.907542,True
+2001,2,22,Spain,Western Europe,Basque Country,Donostia-San Sebastian,Assassination,Explosives,Government (General),2.0,5.0,1,465213318.9322734,True
+2001,2,23,Vietnam,Southeast Asia,Dak Lak (Province),Unknown,Unarmed Assault,Chemical,Educational Institution,0.0,0.0,0,2211953878.907542,True
+2001,3,10,Vietnam,Southeast Asia,Dak Lak (Province),Unknown,Unarmed Assault,Chemical,Educational Institution,0.0,0.0,0,2211953878.907542,True
+2001,3,17,Yugoslavia,Eastern Europe,Pcinja (District),Bujic,Unknown,Unknown,Police,1.0,0.0,0,377568556.70749414,True
+2001,8,9,Macedonia,Eastern Europe,Jegunovce (Municipality),Ratae,Unknown,Unknown,Police,1.0,0.0,0,377568556.70749414,True
+2001,8,18,Colombia,South America,Atlantico,Puerto Colombia district,Unarmed Assault,Melee,Private Citizens & Property,1.0,0.0,0,804821746.0578922,True
+2001,8,20,Georgia,Central Asia,Abkhazia,Kodori Gorge,Facility/Infrastructure Attack,Firearms,Private Citizens & Property,1.0,2.0,1,1339033360.970827,True
+2001,8,26,Algeria,Middle East & North Africa,Mascara (Province),El Houala,Armed Assault,Firearms,Private Citizens & Property,7.0,2.0,0,207286291.8488279,True
+2001,8,30,Colombia,South America,Boyaca,Sativanorte,Facility/Infrastructure Attack,Firearms,Police,1.0,0.0,1,387931336.85429037,True
+2001,9,3,Colombia,South America,Huila,San Adolfo,Unarmed Assault,Chemical,Police,4.0,6.0,0,1663228738.391859,True
+2001,9,23,Australia,Australasia & Oceania,Queensland (State),Brisbane,Facility/Infrastructure Attack,Incendiary,Religious Figures/Institutions,0.0,0.0,1,666857083.374963,True
+2001,9,26,Fiji,Australasia & Oceania,Ba (Province),Lautoka,Facility/Infrastructure Attack,Incendiary,Religious Figures/Institutions,0.0,0.0,1,666857083.374963,True
+2001,11,27,Nepal,South Asia,Far-Western,Gokuleshwor,Hostage Taking (Kidnapping),Unknown,Police,4.0,6.0,1,490442979.2150351,True
+2001,12,0,New Zealand,Australasia & Oceania,Greater Wellington (Region),Wellington,Facility/Infrastructure Attack,Chemical,Government (Diplomatic),0.0,0.0,0,666857083.374963,True
+2002,1,5,United States,North America,Florida,Tampa,Hijacking,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",Business,1.0,0.0,1,2032729318.3201,True
+2002,8,22,Solomon Islands,Australasia & Oceania,Guandacanal,Weather Coast,Assassination,Firearms,Government (General),1.0,0.0,0,2651347150.2547464,True
+2002,11,16,Philippines,Southeast Asia,Lanao del Norte,Magsaysay,Facility/Infrastructure Attack,Firearms,Private Citizens & Property,1.0,0.0,1,596773775.4208741,True
+2003,1,7,Algeria,Middle East & North Africa,Chlef (Province),Ouardiche,Unknown,Unknown,Private Citizens & Property,5.0,1.0,0,194490841.78775868,True
+2003,1,20,Colombia,South America,Bolivar,Zambrano,Armed Assault,Firearms,Police,7.0,2.0,1,348036242.4356703,True
+2003,1,31,Georgia,Central Asia,Unknown,Tsalennijikha,Facility/Infrastructure Attack,Firearms,Utilities,0.0,0.0,1,2654344654.489018,True
+2003,2,1,United Kingdom,Western Europe,Northern Ireland,Belfast,Assassination,Firearms,Terrorists/Non-State Militia,2.0,2.0,1,265121726.2389823,True
+2003,2,8,Pakistan,South Asia,Balochistan,Quetta,Hostage Taking (Kidnapping),Firearms,Business,4.0,2.0,1,368508962.4925955,True
+2003,2,10,Solomon Islands,Australasia & Oceania,Malaita (Province),Auki,Assassination,Firearms,Police,1.0,0.0,1,2651347150.2547464,True
+2003,3,22,Russia,Eastern Europe,Chechnya (Republic),Yalkhoy-Mokhk,Facility/Infrastructure Attack,Incendiary,Government (General),0.0,2.0,1,284058992.2865596,True
+2003,5,1,Burundi,Sub-Saharan Africa,Bubanza,Gahongore,Unknown,Unknown,Utilities,6.0,0.0,1,348205058.4184311,True
+2004,1,7,Colombia,South America,Caldas,Arboleda,Armed Assault,Firearms,Private Citizens & Property,8.0,0.0,0,257626521.117627,True
+2004,1,8,Nigeria,Sub-Saharan Africa,Rivers,Port Harcourt,Armed Assault,Firearms,Private Citizens & Property,8.0,2.0,1,343941698.37116826,True
+2004,1,14,India,South Asia,Bihar,Mirzapur,Hostage Taking (Kidnapping),Firearms,Terrorists/Non-State Militia,4.0,2.0,0,368508962.4925955,True
+2004,3,17,Algeria,Middle East & North Africa,Medea (Province),Medea,Armed Assault,Firearms,Private Citizens & Property,7.0,2.0,0,207286291.8488279,True
+2004,8,13,Georgia,Central Asia,South Ossetia (Republic),Eredvi,Assassination,Firearms,Government (General),0.0,0.0,0,220300925.7294498,True
+2005,1,8,Burundi,Sub-Saharan Africa,Bujumbura Rural,Gatumba,Unknown,Unknown,Military,3.0,3.0,0,355415531.89205533,True
+2005,5,5,Iraq,Middle East & North Africa,Baghdad,Baghdad,Armed Assault,Firearms,Police,10.0,2.0,1,247719914.02144068,True
+2005,5,13,Uzbekistan,Central Asia,Tashkent (Province),Tashkent,Unknown,Fake Weapons,Government (Diplomatic),1.0,0.0,0,458048023.8956547,True
+2005,7,6,Mexico,North America,Acapulco,Acapulco,Assassination,Firearms,Government (General),2.0,0.0,0,431397146.5577391,True
+2005,9,21,Thailand,Southeast Asia,Narathiwat (Province),Tanyonglimo,Hostage Taking (Kidnapping),Melee,Military,2.0,0.0,1,216158464.83002934,True
+2006,1,29,Kyrgyzstan,Central Asia,Bishkek,Bishkek,Facility/Infrastructure Attack,Incendiary,Journalists & Media,0.0,0.0,0,2654344654.489018,True
+2006,4,12,Kyrgyzstan,Central Asia,Bishkek (Province),Bishkek,Assassination,Firearms,Private Citizens & Property,0.0,0.0,0,220300925.7294498,True
+2006,8,28,Philippines,Southeast Asia,North Cotabato,Palomugin,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,1.0,2.0,0,291736262.2752744,True
+2006,9,1,Turkey,Middle East & North Africa,Unknown,Unknown,Armed Assault,Firearms,Military,7.0,2.0,1,207286291.8488279,True
+2006,10,8,Afghanistan,South Asia,Kandahar,Dand,Hostage Taking (Kidnapping),Unknown,Private Citizens & Property,4.0,8.0,1,523114590.30645865,True
+2006,11,24,Indonesia,Southeast Asia,Aceh (Province),Pidie,Unarmed Assault,Melee,Private Citizens & Property,0.0,1.0,0,2211953878.907542,True
+2007,6,3,Indonesia,Southeast Asia,West Java (Province),Soreang,Unarmed Assault,Melee,Religious Figures/Institutions,0.0,1.0,1,2211953878.907542,True
+2007,7,14,Mexico,North America,Nuevo Leon (State),Guadalupe,Assassination,Firearms,Police,1.0,3.0,0,614181603.4876592,True
+2007,8,21,Iraq,Middle East & North Africa,Baghdad,Baghdad,Armed Assault,Firearms,Private Citizens & Property,7.0,2.0,0,207286291.8488279,True
+2007,8,24,France,Western Europe,Aquitaine,Messanges,Hostage Taking (Kidnapping),Unknown,Private Citizens & Property,0.0,3.0,0,458588931.21745217,True
+2007,11,4,Russia,Eastern Europe,Ingushetia,Yandare,Facility/Infrastructure Attack,Firearms,Business,3.0,1.0,0,1370213796.277284,True
+2008,5,5,China,East Asia,Shanghai,Shanghai,Facility/Infrastructure Attack,Incendiary,Transportation,3.0,12.0,1,3094363885.190427,True
+2008,6,3,Philippines,Southeast Asia,Davao Oriental,Baganga,Hostage Taking (Kidnapping),Firearms,Police,2.0,0.0,0,216158464.83002934,True
+2008,6,12,Iraq,Middle East & North Africa,Saladin,Ishaqi,Unknown,Unknown,Terrorists/Non-State Militia,4.0,3.0,0,405374986.1426166,True
+2008,6,29,Afghanistan,South Asia,Ghazni,Gelan district,Hostage Taking (Kidnapping),Firearms,Police,5.0,0.0,1,426438140.40218735,True
+2008,7,16,Russia,Eastern Europe,Chechnya,Musolt-Aul,Facility/Infrastructure Attack,Incendiary,Police,1.0,3.0,1,620610944.7048545,True
+2008,8,12,Philippines,Southeast Asia,North Cotabato,Takipan,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,2.0,0.0,0,216158464.83002934,True
+2008,11,0,India,South Asia,Gujarat,Porbandar,Hijacking,Melee,Maritime,1.0,0.0,1,643156508.9216053,True
+2008,11,18,Russia,Eastern Europe,Dagestan,Makhachkala,Assassination,Explosives,Religious Figures/Institutions,0.0,3.0,0,246184460.06913662,True
+2008,12,10,Australia,Australasia & Oceania,Western Australia,Joondalup,Facility/Infrastructure Attack,Incendiary,Police,0.0,0.0,1,666857083.374963,True
+2009,1,11,Democratic Republic of the Congo,Sub-Saharan Africa,Orientale,Sambia,Unknown,Unknown,Private Citizens & Property,6.0,0.0,1,348205058.4184311,True
+2009,2,14,Philippines,Southeast Asia,Davao Oriental,Banay-Banay,Hijacking,Incendiary,Transportation,0.0,0.0,1,1110900232.9050977,True
+2009,2,24,Hungary,Eastern Europe,Pest,Tatarszentgyorgy,Facility/Infrastructure Attack,Incendiary,Private Citizens & Property,2.0,0.0,1,1421441237.5595233,True
+2009,2,28,Russia,Eastern Europe,Ingushetia,Ordzhonikidzevskaya,Assassination,Firearms,Police,0.0,3.0,1,246184460.06913662,True
+2009,3,3,Russia,Eastern Europe,Ingushetia,Nazran,Hostage Taking (Kidnapping),Firearms,Government (General),1.0,0.0,1,294187729.6257213,True
+2009,3,24,Russia,Eastern Europe,Chechnya,Neftyanka,Hostage Taking (Kidnapping),Firearms,Police,1.0,0.0,1,294187729.6257213,True
+2009,3,30,United Kingdom,Western Europe,Northern Ireland,Belfast,Hijacking,Firearms,Private Citizens & Property,0.0,1.0,1,204727201.82921967,True
+2009,6,25,Mexico,North America,Sonora,Benito Juarez,Assassination,Firearms,Government (General),2.0,3.0,1,390166601.06606483,True
+2009,7,9,Philippines,Southeast Asia,Iloilo,Igbaras,Hijacking,Explosives,Business,0.0,0.0,1,1110900232.9050977,True
+2009,7,15,Russia,Eastern Europe,Chechnya,Grozny/Groznenskiy,Hostage Taking (Kidnapping),Unknown,Private Citizens & Property,1.0,0.0,1,294187729.6257213,True
+2009,7,20,Colombia,South America,Arauca,Tame,Facility/Infrastructure Attack,Firearms,Private Citizens & Property,1.0,0.0,1,387931336.85429037,True
+2009,7,30,Spain,Western Europe,Balearic Islands,Calvia,Bombing/Explosion,Explosives,Police,2.0,0.0,1,342120957.7235142,True
+2009,8,10,Russia,Eastern Europe,Chechnya,Grozny/Groznenskiy,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,2.0,0.0,1,299855090.134044,True
+2009,8,12,Somalia,Sub-Saharan Africa,Mudug,Galkayo,Armed Assault,Firearms,Private Citizens & Property,8.0,2.0,0,343941698.37116826,True
+2009,8,20,Afghanistan,South Asia,Kandahar,Kandahar,Unarmed Assault,Melee,Private Citizens & Property,2.0,0.0,1,213185596.23931023,True
+2009,9,16,India,South Asia,Jharkhand,Itki,Unarmed Assault,Melee,Violent Political Party,2.0,0.0,0,213185596.23931023,True
+2009,10,14,Sudan,Sub-Saharan Africa,West Equatoria,Yambio,Facility/Infrastructure Attack,Unknown,Private Citizens & Property,2.0,0.0,1,556613821.1369431,True
+2009,10,22,Algeria,Middle East & North Africa,Tizi Ouzou Province,Maatkas,Armed Assault,Firearms,Police,7.0,2.0,1,207286291.8488279,True
+2009,11,6,Democratic Republic of the Congo,Sub-Saharan Africa,North Kivu,Lubero,Facility/Infrastructure Attack,Unknown,Private Citizens & Property,2.0,0.0,1,556613821.1369431,True
+2010,2,18,United States,North America,Texas,Austin,Facility/Infrastructure Attack,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",Government (General),2.0,15.0,1,1123733564.919084,True
+2010,5,20,Philippines,Southeast Asia,Camarines Sur,Santo Nino,Facility/Infrastructure Attack,Incendiary,Business,2.0,0.0,1,767435028.401679,True
+2010,5,23,Afghanistan,South Asia,Khost,Dwahmande,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,5.0,0.0,0,426438140.40218735,True
+2010,6,13,Afghanistan,South Asia,Baghlan,Dahana-i-Ghuri,Unarmed Assault,Melee,Private Citizens & Property,1.0,0.0,0,402410873.50666994,True
+2010,7,29,Russia,Eastern Europe,Russian Republic,Mineralnye Vody,Hijacking,Fake Weapons,Airports & Aircraft,0.0,0.0,0,1994319222.6271462,True
+2010,8,9,Russia,Eastern Europe,Kabardino Balkariya,Zolskiy,Assassination,Firearms,Police,2.0,0.0,0,300139704.6979133,True
+2010,8,25,Afghanistan,South Asia,Herat,Adraskan,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,5.0,0.0,0,426438140.40218735,True
+2010,8,30,India,South Asia,Jharkhand,Ulung,Unarmed Assault,Melee,Private Citizens & Property,1.0,0.0,0,402410873.50666994,True
+2010,9,11,Somalia,Sub-Saharan Africa,Banaadir,Mogadishu,Hijacking,Explosives,Maritime,0.0,2.0,0,291736262.2752744,True
+2010,11,28,Ivory Coast,Sub-Saharan Africa,Haut-Sassandra,Daloa,Unknown,Unknown,Government (General),6.0,0.0,1,348205058.4184311,True
+2011,1,7,Nigeria,Sub-Saharan Africa,Gombe,Gombe,Armed Assault,Firearms,Private Citizens & Property,8.0,2.0,1,343941698.37116826,True
+2011,1,8,Philippines,Southeast Asia,Davao Del Sur,Datu Danwata,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,1.0,3.0,0,422249852.9800026,True
+2011,1,19,Afghanistan,South Asia,Wardak,Ali Shang,Hijacking,Firearms,Private Citizens & Property,1.0,2.0,1,428551362.375049,True
+2011,3,5,Philippines,Southeast Asia,Biliran,Talahid,Facility/Infrastructure Attack,Incendiary,Transportation,2.0,0.0,1,767435028.401679,True
+2011,7,17,Pakistan,South Asia,Federally Administered Tribal Areas,Kurram district,Hostage Taking (Kidnapping),Firearms,Business,2.0,2.0,1,209845381.9501181,True
+2011,8,11,Afghanistan,South Asia,Wardak,Maydan Shahr,Hostage Taking (Kidnapping),Unknown,Police,5.0,0.0,0,426438140.40218735,True
+2011,10,30,India,South Asia,Jharkhand,Khunti district,Unarmed Assault,Melee,Private Citizens & Property,1.0,0.0,0,402410873.50666994,True
+2011,11,11,Turkey,Middle East & North Africa,Kocaeli,Izmit,Hijacking,Explosives,Transportation,1.0,0.0,0,627670748.4689914,True
+2011,12,7,Afghanistan,South Asia,Badakhshan,Warduj district,Hostage Taking (Kidnapping),Firearms,Police,2.0,2.0,1,209845381.9501181,True
+2011,12,7,Yemen,Middle East & North Africa,Abyan,Zinjibar,Armed Assault,Firearms,Military,10.0,4.0,1,215313587.07261476,True
+2011,12,12,Pakistan,South Asia,Khyber Pakhtunkhwa,Karbogha,Hostage Taking (Kidnapping),Firearms,Police,5.0,0.0,0,426438140.40218735,True
+2012,9,2,Turkey,Middle East & North Africa,Sirnak,Beytussebap district,Armed Assault,Explosives,Police,10.0,2.0,0,247719914.02144068,True
+2012,9,2,Turkey,Middle East & North Africa,Sirnak,Beytussebap district,Armed Assault,Explosives,Police,10.0,2.0,0,247719914.02144068,True
+2012,9,2,Turkey,Middle East & North Africa,Sirnak,Beytussebap district,Armed Assault,Explosives,Police,10.0,2.0,0,247719914.02144068,True
+2012,9,6,Nigeria,Sub-Saharan Africa,Yobe,Damaturu,Facility/Infrastructure Attack,Incendiary,Educational Institution,2.0,0.0,1,556613821.1369431,True
+2012,9,6,Nigeria,Sub-Saharan Africa,Yobe,Damaturu,Facility/Infrastructure Attack,Incendiary,Other,2.0,0.0,1,556613821.1369431,True
+2012,9,6,Nigeria,Sub-Saharan Africa,Yobe,Damaturu,Facility/Infrastructure Attack,Incendiary,Government (General),2.0,0.0,1,556613821.1369431,True
+2012,10,7,Russia,Eastern Europe,Dagestan,Buynaksk,Hostage Taking (Kidnapping),Firearms,Police,1.0,0.0,0,294187729.6257213,True
+2012,10,19,Nigeria,Sub-Saharan Africa,Borno,Atagara,Facility/Infrastructure Attack,Firearms,Religious Figures/Institutions,2.0,2.0,1,305081377.75142205,True
+2012,10,27,Philippines,Southeast Asia,Agusan del Sur,Bayugan,Hijacking,Firearms,Private Citizens & Property,0.0,0.0,1,1110900232.9050977,True
+2012,11,26,Afghanistan,South Asia,Kunar,Watapur district,Hostage Taking (Kidnapping),Firearms,Government (General),5.0,0.0,0,426438140.40218735,True
+2013,1,10,Afghanistan,South Asia,Badghis,Muqur district,Hostage Taking (Kidnapping),Firearms,Police,4.0,2.0,1,368508962.4925955,True
+2013,1,15,Pakistan,South Asia,Khyber Pakhtunkhwa,Bara,Hostage Taking (Kidnapping),Explosives,Military,4.0,7.0,1,488015363.0828028,True
+2013,2,7,Mexico,North America,Coahuila,Torreon,Hostage Taking (Kidnapping),Firearms,Journalists & Media,0.0,5.0,0,941013616.4399517,True
+2013,2,21,Kenya,Sub-Saharan Africa,North Eastern,Liboi,Armed Assault,Firearms,Religious Figures/Institutions,7.0,2.0,1,211892653.99266267,True
+2013,3,20,Guatemala,Central America & Caribbean,Jutiapa,Ciudad Pedro de Alvarado,Assassination,Firearms,Journalists & Media,1.0,2.0,0,243625370.17248568,True
+2013,3,24,Mexico,North America,Oaxaca,Unknown,Assassination,Firearms,Government (General),2.0,0.0,1,431397146.5577391,True
+2013,4,14,Philippines,Southeast Asia,Agusan del Sur,Unknown,Hostage Taking (Kidnapping),Firearms,Police,2.0,0.0,0,216158464.83002934,True
+2013,5,3,Somalia,Sub-Saharan Africa,Lower Shebelle,Buuslaey,Hijacking,Unknown,Military,3.0,0.0,0,1631277134.905883,True
+2013,5,9,Pakistan,South Asia,Punjab,Multan,Hostage Taking (Kidnapping),Firearms,Violent Political Party,2.0,4.0,0,248499568.03493303,True
+2013,5,20,Philippines,Southeast Asia,North Cotabato,New Israel,Hijacking,Firearms,Private Citizens & Property,0.0,0.0,1,1110900232.9050977,True
+2013,6,3,Somalia,Sub-Saharan Africa,Gedo,Fafahdun,Unknown,Unknown,Military,5.0,1.0,0,200120839.74681225,True
+2013,6,5,Peru,South America,Ayacucho,Tutumbaru,Hostage Taking (Kidnapping),Firearms,Business,0.0,2.0,1,257956274.2049671,True
+2013,6,6,Kazakhstan,Central Asia,Aqmola,Atbasar,Facility/Infrastructure Attack,Incendiary,Government (General),0.0,0.0,0,2654344654.489018,True
+2013,6,6,Kazakhstan,Central Asia,Aqmola,Atbasar,Facility/Infrastructure Attack,Incendiary,Government (General),0.0,0.0,0,2654344654.489018,True
+2013,6,15,Kazakhstan,Central Asia,Aqmola,Atbasar,Facility/Infrastructure Attack,Incendiary,Government (General),0.0,0.0,0,2654344654.489018,True
+2013,6,16,Nigeria,Sub-Saharan Africa,Yobe,Damaturu,Unknown,Unknown,Military,2.0,3.0,0,285311315.6828107,True
+2013,6,23,Iraq,Middle East & North Africa,Al Anbar,Unknown,Hostage Taking (Kidnapping),Firearms,Military,3.0,2.0,0,408430766.629903,True
+2013,6,28,Philippines,Southeast Asia,Mountain Province,Tadian,Hostage Taking (Kidnapping),Firearms,Police,1.0,9.0,0,659044261.6903985,True
+2013,8,27,Russia,Eastern Europe,Ingushetia,Nizhniye Achaluki,Assassination,Firearms,Government (General),2.0,0.0,1,300139704.6979133,True
+2013,8,27,Afghanistan,South Asia,Badghis,Morghab district,Armed Assault,Firearms,Police,11.0,2.0,1,221105377.9109935,True
+2013,9,2,Australia,Australasia & Oceania,Victoria,Melbourne,Facility/Infrastructure Attack,Incendiary,Business,0.0,0.0,1,666857083.374963,True
+2013,9,9,Georgia,Central Asia,Abkhazia,Unknown,Assassination,Explosives,Government (Diplomatic),2.0,0.0,0,517324646.3951465,True
+2013,9,26,India,South Asia,Jammu and Kashmir,Kathua,Hijacking,Firearms,Police,6.0,3.0,1,1155171333.0506806,True
+2013,10,8,Russia,Eastern Europe,Kabardino-Balkaria,Unknown,Hostage Taking (Kidnapping),Firearms,Government (General),2.0,0.0,0,299855090.134044,True
+2013,10,29,Mozambique,Sub-Saharan Africa,Sofala,Muxungue district,Facility/Infrastructure Attack,Unknown,Private Citizens & Property,1.0,4.0,1,669969766.1411211,True
+2013,11,30,India,South Asia,Bihar,Jamalpur,Hostage Taking (Kidnapping),Firearms,Police,3.0,2.0,1,268704452.2550175,True
+2014,1,11,Yemen,Middle East & North Africa,Hadramawt,Ghayl Bin Yamin,Hostage Taking (Kidnapping),Firearms,Military,2.0,1.0,1,194490841.78775868,True
+2014,1,23,Yemen,Middle East & North Africa,Marib,Marib,Hijacking,Firearms,Military,1.0,0.0,1,627670748.4689914,True
+2014,1,24,China,East Asia,Xinjiang,Aksu district,Bombing/Explosion,Explosives,Police,2.0,0.0,0,803850321.7502384,True
+2014,2,5,Mexico,North America,Veracruz,Allende,Hostage Taking (Kidnapping),Firearms,Journalists & Media,1.0,0.0,0,637406746.3406882,True
+2014,2,7,Ukraine,Eastern Europe,Kharkiv,Kharkiv,Hijacking,Fake Weapons,Airports & Aircraft,0.0,0.0,0,1994319222.6271462,True
+2014,2,7,New Zealand,Australasia & Oceania,Wellington,Upper Hutt,Facility/Infrastructure Attack,Incendiary,Business,0.0,0.0,1,666857083.374963,True
+2014,2,13,Iraq,Middle East & North Africa,Al Anbar,Ramadi,Unknown,Unknown,Police,4.0,3.0,0,405374986.1426166,True
+2014,2,23,Nigeria,Sub-Saharan Africa,Borno,Mairari,Facility/Infrastructure Attack,Incendiary,Private Citizens & Property,2.0,0.0,1,556613821.1369431,True
+2014,2,24,Australia,Australasia & Oceania,Queensland,Logan,Facility/Infrastructure Attack,Incendiary,Police,0.0,0.0,1,666857083.374963,True
+2014,3,4,Chile,South America,Araucania,Unknown,Unarmed Assault,Other,Police,0.0,7.0,0,980272048.7838898,True
+2014,3,18,Thailand,Southeast Asia,Bangkok,Bangkok,Unarmed Assault,Other,Private Citizens & Property,0.0,0.0,0,2211953878.907542,True
+2014,3,28,India,South Asia,Jammu and Kashmir,Hiranagar,Hijacking,Firearms,Private Citizens & Property,2.0,3.0,1,637068223.6457415,True
+2014,3,31,Afghanistan,South Asia,Uruzgan,Shahidi Hassas district,Unarmed Assault,Melee,Private Citizens & Property,1.0,1.0,1,559170210.8423938,True
+2014,4,3,Somalia,Sub-Saharan Africa,Hiiraan,Bulobarde district,Hijacking,Firearms,Private Citizens & Property,2.0,0.0,0,1282430156.9382083,True
+2014,4,13,Iraq,Middle East & North Africa,Saladin,Sulayman Beg,Hostage Taking (Kidnapping),Firearms,Terrorists/Non-State Militia,3.0,4.0,1,755443372.0837545,True
+2014,4,13,United States,North America,Kansas,Overland Park,Armed Assault,Firearms,Religious Figures/Institutions,2.0,0.0,0,298931268.35557884,True
+2014,4,14,Ukraine,Eastern Europe,Donetsk,Horlivka,Facility/Infrastructure Attack,Firearms,Police,0.0,3.0,1,422249853.05839956,True
+2014,4,15,Nigeria,Sub-Saharan Africa,Bauchi,Soro,Hijacking,Firearms,Government (Diplomatic),1.0,0.0,1,805913496.9056593,True
+2014,4,16,Ukraine,Eastern Europe,Donetsk,Mariupol,Facility/Infrastructure Attack,Firearms,Military,3.0,13.0,1,1719039225.3574347,True
+2014,4,17,Russia,Eastern Europe,Dagestan,Khasavyurt,Assassination,Firearms,Government (General),2.0,0.0,1,300139704.6979133,True
+2014,4,17,Ukraine,Eastern Europe,Donetsk,Horlivka,Hostage Taking (Kidnapping),Melee,Government (General),1.0,0.0,0,294187729.6257213,True
+2014,5,2,Ukraine,Eastern Europe,Donetsk,Slovyansk,Unknown,Unknown,Military,2.0,0.0,0,402162159.2995287,True
+2014,5,4,Lebanon,Middle East & North Africa,Beqaa,Arsal district,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,0.0,5.0,0,262050818.72373337,True
+2014,5,5,Pakistan,South Asia,Khyber Pakhtunkhwa,Wazir Dhand,Hostage Taking (Kidnapping),Firearms,Military,2.0,2.0,1,209845381.9501181,True
+2014,5,7,Ukraine,Eastern Europe,Donetsk,Shandryholove,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,1.0,0.0,0,294187729.6257213,True
+2014,5,15,Russia,Eastern Europe,Dagestan,Kizilyutovskiy district,Hostage Taking (Kidnapping),Unknown,Religious Figures/Institutions,1.0,0.0,0,294187729.6257213,True
+2014,5,18,Australia,Australasia & Oceania,New South Wales,Sydney,Facility/Infrastructure Attack,Incendiary,Private Citizens & Property,0.0,0.0,1,666857083.374963,True
+2014,5,18,Australia,Australasia & Oceania,New South Wales,Sydney,Facility/Infrastructure Attack,Incendiary,Private Citizens & Property,0.0,0.0,1,666857083.374963,True
+2014,5,25,Ukraine,Eastern Europe,Luhansk,Novoaydar,Facility/Infrastructure Attack,Firearms,Government (General),1.0,1.0,1,598745673.0930868,True
+2014,5,26,Afghanistan,South Asia,Helmand,Musa Qala district,Armed Assault,Firearms,Military,11.0,2.0,0,221105377.9109935,True
+2014,6,1,United States,North America,Washington,Seattle,Armed Assault,Firearms,Private Citizens & Property,2.0,0.0,0,298931268.35557884,True
+2014,6,23,Ukraine,Eastern Europe,Luhansk,Luhansk,Hostage Taking (Kidnapping),Melee,Private Citizens & Property,1.0,0.0,0,294187729.6257213,True
+2014,6,30,Sudan,Sub-Saharan Africa,Central Darfur,Zalingei,Hijacking,Firearms,Transportation,0.0,3.0,1,422249852.9800026,True
+2014,7,5,Iraq,Middle East & North Africa,Al Anbar,Ramadi,Hijacking,Firearms,Police,2.0,1.0,1,445018031.4926615,True
+2014,7,5,Iraq,Middle East & North Africa,Al Anbar,Ramadi,Hijacking,Firearms,Police,1.0,1.0,1,340324915.8648728,True
+2014,7,5,Iraq,Middle East & North Africa,Al Anbar,Ramadi,Hijacking,Firearms,Police,1.0,1.0,1,340324915.8648728,True
+2014,7,5,Kenya,Sub-Saharan Africa,Lamu,Gamba,Hijacking,Firearms,Private Citizens & Property,3.0,0.0,1,1631277134.905883,True
+2014,7,11,Ukraine,Eastern Europe,Luhansk,Aleksandrovsk,Unknown,Unknown,Military,1.0,0.0,0,377568556.70749414,True
+2014,7,12,Afghanistan,South Asia,Laghman,Kandi,Armed Assault,Explosives,Police,11.0,2.0,0,221105377.9109935,True
+2014,7,12,Afghanistan,South Asia,Laghman,Kalatak,Armed Assault,Explosives,Police,11.0,2.0,1,221105377.9109935,True
+2014,7,13,Philippines,Southeast Asia,North Cotabato,Tulunan,Facility/Infrastructure Attack,Firearms,Business,1.0,0.0,1,596773775.4208741,True
+2014,7,15,Ukraine,Eastern Europe,Donetsk,Yasynuvata,Unknown,Unknown,Private Citizens & Property,1.0,0.0,0,377568556.70749414,True
+2014,7,23,Thailand,Southeast Asia,Pattani,Panare district,Hijacking,Explosives,Police,0.0,0.0,1,1110900232.9050977,True
+2014,7,23,Thailand,Southeast Asia,Pattani,Tha Kham,Hijacking,Melee,Business,0.0,0.0,1,1110900232.9050977,True
+2014,8,4,Colombia,South America,Arauca,Tame,Unarmed Assault,Chemical,Military,1.0,6.0,0,796358857.3894033,True
+2014,8,7,Iraq,Middle East & North Africa,Nineveh,Saslaj,Facility/Infrastructure Attack,Firearms,Utilities,1.0,0.0,1,332526904.62804246,True
+2014,8,8,Somalia,Sub-Saharan Africa,Bakool,Hudur,Unknown,Unknown,Military,6.0,0.0,1,348205058.4184311,True
+2014,8,8,Iraq,Middle East & North Africa,Al Anbar,Hit,Hijacking,Explosives,Terrorists/Non-State Militia,1.0,5.0,0,361214348.7628499,True
+2014,8,8,Egypt,Middle East & North Africa,Unknown,Unknown,Hijacking,Firearms,Business,1.0,0.0,1,627670748.4689914,True
+2014,8,12,Australia,Australasia & Oceania,Victoria,Beechworth,Facility/Infrastructure Attack,Incendiary,Police,0.0,0.0,1,666857083.374963,True
+2014,8,14,Afghanistan,South Asia,Helmand,Kajaki district,Hostage Taking (Kidnapping),Melee,Private Citizens & Property,5.0,0.0,0,426438140.40218735,True
+2014,8,22,Ukraine,Eastern Europe,Luhansk,Luhansk,Hostage Taking (Kidnapping),Unknown,Government (Diplomatic),1.0,0.0,0,294187729.6257213,True
+2014,8,25,Nigeria,Sub-Saharan Africa,Jigawa,Keffin Hausa,Unknown,Unknown,Private Citizens & Property,6.0,0.0,1,348205058.4184311,True
+2014,8,30,Libya,Middle East & North Africa,Tripoli,Tripoli,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,1.0,3.0,1,422249853.14776576,True
+2014,8,31,Iraq,Middle East & North Africa,Saladin,Khazraj,Unknown,Unknown,Unknown,4.0,2.0,0,343941698.3885401,True
+2014,9,5,Paraguay,South America,San Pedro,Tacuati,Hostage Taking (Barricade Incident),Firearms,Private Citizens & Property,1.0,0.0,1,851663223.3066201,True
+2014,9,16,Pakistan,South Asia,Balochistan,Naal,Hijacking,Firearms,Business,0.0,4.0,1,622370692.0808277,True
+2014,10,3,Egypt,Middle East & North Africa,North Sinai,Gora,Hostage Taking (Kidnapping),Firearms,Religious Figures/Institutions,0.0,4.0,1,208821746.24156883,True
+2014,10,13,Afghanistan,South Asia,Uruzgan,Gizab district,Unarmed Assault,Chemical,Police,2.0,0.0,0,213185596.23931023,True
+2014,10,26,Afghanistan,South Asia,Badakhshan,Warduj district,Hostage Taking (Kidnapping),Unknown,Police,4.0,7.0,1,488015363.0828028,True
+2014,10,27,Dominican Republic,Central America & Caribbean,Distrito Nacional,Santo Domingo,Facility/Infrastructure Attack,Incendiary,Transportation,0.0,35.0,1,2389909280.9032855,True
+2014,10,29,Ukraine,Eastern Europe,Donetsk,Petrivske,Unknown,Unknown,Military,3.0,0.0,0,500660410.1881863,True
+2014,11,3,Australia,Australasia & Oceania,New South Wales,Bankstown,Armed Assault,Firearms,Religious Figures/Institutions,0.0,1.0,0,1990309988.3406322,True
+2014,11,9,Colombia,South America,Arauca,Tame district,Hostage Taking (Kidnapping),Unknown,Military,1.0,2.0,0,350083514.49891794,True
+2014,11,9,Ukraine,Eastern Europe,Donetsk,Debaltseve,Unknown,Unknown,Police,2.0,0.0,1,402162159.2995287,True
+2014,11,14,Ukraine,Eastern Europe,Donetsk,Donetsk,Unknown,Unknown,Military,1.0,0.0,1,377568556.70749414,True
+2014,11,26,Azerbaijan,Central Asia,Baku,Baku,Facility/Infrastructure Attack,Incendiary,Religious Figures/Institutions,0.0,1.0,1,2434452821.1762304,True
+2014,12,2,Australia,Australasia & Oceania,New South Wales,Oberon,Facility/Infrastructure Attack,Incendiary,Business,0.0,0.0,1,666857083.374963,True
+2014,12,6,Azerbaijan,Central Asia,Quba,Quba district,Unknown,Unknown,Religious Figures/Institutions,0.0,0.0,1,2505063847.3505826,True
+2014,12,11,Afghanistan,South Asia,Ghazni,Qarabagh district,Hostage Taking (Kidnapping),Firearms,Military,5.0,0.0,0,426438140.40218735,True
+2014,12,17,Afghanistan,South Asia,Khost,Khogi,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,2.0,2.0,0,209845381.9501181,True
+2014,12,20,United States,North America,New York,New York City,Armed Assault,Firearms,Police,2.0,0.0,1,298931268.35557884,True
+2014,12,30,Somalia,Sub-Saharan Africa,Bay,Baidoa,Unknown,Unknown,Military,6.0,0.0,0,348205058.4184311,True
+2015,1,24,Australia,Australasia & Oceania,Queensland,Toowoomba,Facility/Infrastructure Attack,Incendiary,Religious Figures/Institutions,0.0,0.0,1,666857083.374963,True
+2015,1,28,Afghanistan,South Asia,Faryab,Andkhoy district,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,2.0,4.0,0,248499568.03493303,True
+2016,6,28,Australia,Australasia & Oceania,Western Australia,Perth,Facility/Infrastructure Attack,Incendiary,Religious Figures/Institutions,0.0,0.0,1,666857083.374963,True
+2016,6,30,Cameroon,Sub-Saharan Africa,Extreme-North,Djakana,Bombing/Explosion,Explosives,Religious Figures/Institutions,5.0,2.0,1,207286291.85291797,True
+2016,7,24,Australia,Australasia & Oceania,Western Australia,Perth,Armed Assault,Incendiary,Journalists & Media,0.0,0.0,1,1990309988.3406322,True
+2016,8,6,Ukraine,Eastern Europe,Luhansk,Luhansk,Assassination,Explosives,Terrorists/Non-State Militia,0.0,3.0,1,246184460.06913662,True
+2016,8,13,United States,North America,New York,New York City,Armed Assault,Firearms,Religious Figures/Institutions,2.0,0.0,0,298931268.35557884,True
+2016,8,24,Egypt,Middle East & North Africa,North Sinai,Arish,Hijacking,Firearms,Police,1.0,0.0,1,627670748.4689914,True
+2016,8,30,Thailand,Southeast Asia,Pattani,Tao Rabon,Hijacking,Firearms,Business,0.0,0.0,1,1110900232.9050977,True
+2016,8,31,Mali,Sub-Saharan Africa,Mopti,Boni,Unknown,Unknown,Military,3.0,2.0,1,300948986.2537008,True
+2016,9,4,Nigeria,Sub-Saharan Africa,Rivers,Akuku-Toru district,Hijacking,Firearms,Police,4.0,0.0,1,2018651622.2155297,True
+2016,9,6,India,South Asia,Jharkhand,Murhu,Unarmed Assault,Melee,Private Citizens & Property,1.0,0.0,0,402410873.50666994,True
+2016,9,10,Australia,Australasia & Oceania,New South Wales,Minto,Armed Assault,Melee,Private Citizens & Property,0.0,1.0,0,1990309988.3406322,True
+2016,9,15,Turkey,Middle East & North Africa,Agri,Dogubeyazit district,Armed Assault,Explosives,Terrorists/Non-State Militia,10.0,4.0,0,215313587.07261476,True
+2016,9,15,India,South Asia,Jharkhand,Katia,Unarmed Assault,Melee,Government (General),1.0,0.0,0,402410873.50666994,True
+2016,9,23,Australia,Australasia & Oceania,New South Wales,Hobbys Yards,Facility/Infrastructure Attack,Incendiary,Religious Figures/Institutions,0.0,0.0,1,666857083.374963,True
+2016,9,24,Somalia,Sub-Saharan Africa,Mudug,Bacaadweyn,Hijacking,Firearms,Military,1.0,1.0,1,593087451.6762626,True
+2016,9,27,India,South Asia,Uttar Pradesh,Babupur Saraiya,Unarmed Assault,Melee,Religious Figures/Institutions,2.0,0.0,0,213185596.23931023,True
+2016,10,6,Afghanistan,South Asia,Badghis,Marchak,Hostage Taking (Kidnapping),Unknown,Police,2.0,3.0,0,212672307.71419424,True
+2016,10,11,Egypt,Middle East & North Africa,North Sinai,Arish,Hostage Taking (Kidnapping),Unknown,Private Citizens & Property,0.0,4.0,0,208821746.24156883,True
+2016,10,14,Egypt,Middle East & North Africa,North Sinai,Zuqdan,Unknown,Unknown,Military,4.0,1.0,0,204215383.8021466,True
+2016,10,16,Somalia,Sub-Saharan Africa,Bakool,Buur Dhuxunle,Hijacking,Unknown,Private Citizens & Property,2.0,3.0,1,741807906.6534122,True
+2016,10,20,Philippines,Southeast Asia,Tawi-Tawi,Bongao,Hijacking,Firearms,Maritime,0.0,0.0,0,1110900232.9050977,True
+2017,9,23,Ukraine,Eastern Europe,Donetsk,Donetsk,Assassination,Explosives,Private Citizens & Property,0.0,8.0,1,376342009.3107586,True
+2017,9,27,Philippines,Southeast Asia,South Cotabato,Polomolok,Assassination,Firearms,Government (General),1.0,5.0,1,284588292.6791961,True
+2017,10,16,Egypt,Middle East & North Africa,North Sinai,Arish,Hostage Taking (Kidnapping),Explosives,Police,3.0,8.0,1,1116415637.2373598,True
+2017,10,30,Kenya,Sub-Saharan Africa,Mandera,Arabia,Hijacking,Firearms,Private Citizens & Property,0.0,2.0,1,291736262.2752744,True
+2017,11,6,South Sudan,Sub-Saharan Africa,Yei River,Bamure,Unknown,Unknown,Military,5.0,3.0,0,458588930.98919123,True
+2017,12,19,Democratic Republic of the Congo,Sub-Saharan Africa,North Kivu,Lubero,Unknown,Unknown,Utilities,5.0,2.0,1,327563522.34942234,True
+2017,12,28,Philippines,Southeast Asia,Maguindanao,Shariff Aguak,Hostage Taking (Kidnapping),Firearms,Private Citizens & Property,2.0,0.0,0,216158464.83002934,True
